@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Data files (large)
+code/data/*.npz
+code/data/*.pkl
+源数据/TCGA/expression/*.tsv
+源数据/TCGA/clinical/*.txt
+源数据/GEO/*.csv
+源数据/GEO/*.soft.gz
+
+# Results (generated)
+code/results/*.pkl
+code/results/*.csv
+code/results/*.json
+
+# Figures
+figures/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# PDF output
+Exo-OralAI_Revised.pdf
+
+# Claude
+.claude/
+
+# Old results
+code/results.zip

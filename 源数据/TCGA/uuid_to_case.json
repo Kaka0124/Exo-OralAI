@@ -1,0 +1,1498 @@
+{
+  "b4d80398-c339-407b-94d3-57afa590e16d": {
+    "case_id": "b86e27d4-a524-4855-89c6-d46a4079a9a0",
+    "submitter_id": "TCGA-F7-A620"
+  },
+  "b0a41da1-d309-4d5a-bd1e-59a7ecdcf64a": {
+    "case_id": "e1670628-632d-4305-be07-9b9b6bea3350",
+    "submitter_id": "TCGA-CQ-6222"
+  },
+  "9826930c-b7bd-49ba-b824-1f940e207f4b": {
+    "case_id": "d69e29ca-24be-4f35-a581-f82e624b8e8b",
+    "submitter_id": "TCGA-IQ-A61J"
+  },
+  "a8c8404c-f376-4d3d-bf50-2e1aac8d3afc": {
+    "case_id": "c7885e34-d5dc-4256-a4ad-944a27dfcfc2",
+    "submitter_id": "TCGA-P3-A6T4"
+  },
+  "c5976308-8c60-4f51-8e86-3b586f137f23": {
+    "case_id": "03aca47b-7653-4938-9178-ed7c37eee6d5",
+    "submitter_id": "TCGA-CR-7392"
+  },
+  "bb9b442e-d08b-4b0d-8136-f095dee5991c": {
+    "case_id": "7152edc3-0a5b-4aed-b0c6-63f913dff272",
+    "submitter_id": "TCGA-CN-4728"
+  },
+  "b161d612-e678-4cd9-9e5c-95c60b51390a": {
+    "case_id": "15eb8d88-adb1-4f4f-a44d-087049db60ce",
+    "submitter_id": "TCGA-CQ-A4CD"
+  },
+  "5efe8382-333c-4400-a24e-2dab54ec38b6": {
+    "case_id": "242bdece-75dc-45b9-a9b3-3e1bc305a3e3",
+    "submitter_id": "TCGA-CR-7373"
+  },
+  "489bb150-5eb7-46af-9c6e-9881016b6ba7": {
+    "case_id": "2c7f1035-5c8c-4c49-8b9b-2f1233896530",
+    "submitter_id": "TCGA-UF-A71A"
+  },
+  "b74fe897-74ee-4c1e-87bd-4e18dd64284e": {
+    "case_id": "93b742eb-5fc3-4ce2-b7f6-c89f97e0dcc9",
+    "submitter_id": "TCGA-CV-7263"
+  },
+  "3f6cc2ce-245d-4eed-831c-ad4165376e69": {
+    "case_id": "b43b8aed-d166-4f00-8144-24ad3fe314ed",
+    "submitter_id": "TCGA-CR-6493"
+  },
+  "6adeb3ef-4d4d-4e3f-945e-c4e39fad122d": {
+    "case_id": "b843df7e-db06-4d29-b00d-6a93effd9191",
+    "submitter_id": "TCGA-HD-8635"
+  },
+  "fd434c3e-120b-4e22-bd02-25e97f36fb1e": {
+    "case_id": "534f85f2-b9eb-45be-87d5-c3dffd13d541",
+    "submitter_id": "TCGA-CV-7255"
+  },
+  "130c3d03-9b15-4577-bff2-f9e3cf8cda29": {
+    "case_id": "5da2dbde-735b-4f05-b6d7-76de54d6d6ac",
+    "submitter_id": "TCGA-CN-4726"
+  },
+  "a6539e64-aeac-4a51-9a35-b088be14668c": {
+    "case_id": "93cbda0f-8454-4127-a6da-a19dda345deb",
+    "submitter_id": "TCGA-T2-A6WZ"
+  },
+  "8fae59bb-c8bd-4125-8c8e-7908eebb5609": {
+    "case_id": "93a265b7-6c23-4e5f-b797-c117793744bf",
+    "submitter_id": "TCGA-CV-6936"
+  },
+  "060bb9a8-70e4-48bf-949a-9a4da4fe321f": {
+    "case_id": "a71b425b-ccd3-42f0-8163-3721cb1794ef",
+    "submitter_id": "TCGA-UF-A71B"
+  },
+  "78a776c3-2c61-4162-a19f-15af1100a18a": {
+    "case_id": "06060406-0540-4d5a-adeb-4cc46c01c782",
+    "submitter_id": "TCGA-CQ-7069"
+  },
+  "2d16a5f3-bcc1-4809-9137-9170ddfd8026": {
+    "case_id": "85a26115-1160-411b-8384-44eedc947fb2",
+    "submitter_id": "TCGA-CR-7369"
+  },
+  "8fc09183-9ad5-4b27-9081-772a9895da69": {
+    "case_id": "91a712b5-a724-48d0-ba06-4f6857683463",
+    "submitter_id": "TCGA-DQ-5630"
+  },
+  "12356fb5-98f2-461e-b590-6bde94eac461": {
+    "case_id": "d9e8c707-e61a-4813-8dc0-2472e9ccf12b",
+    "submitter_id": "TCGA-CQ-6223"
+  },
+  "c0d34a08-d870-45e2-94c5-24e45d1f1356": {
+    "case_id": "3101785d-1cc2-4bd9-9fce-02205d0548c6",
+    "submitter_id": "TCGA-CV-A45X"
+  },
+  "09503611-2e57-46e8-912c-0542e50c6ac8": {
+    "case_id": "6fa62461-e721-415a-8b0f-363b84292b82",
+    "submitter_id": "TCGA-BA-4075"
+  },
+  "b3a80fbc-9066-4bc8-88f0-3f20d52f6489": {
+    "case_id": "46e51eb2-0c5e-457b-af1a-8bac1b8a8bea",
+    "submitter_id": "TCGA-F7-A624"
+  },
+  "44fafd9e-b603-48f0-86ec-2022601f139f": {
+    "case_id": "59398d50-45cf-4812-a24e-0c00c0199971",
+    "submitter_id": "TCGA-CV-6441"
+  },
+  "ec391e89-3ffa-4e8f-ba46-7ea7a95dcd7b": {
+    "case_id": "b98867d7-7d5a-4c58-8878-37bee6f2f4fa",
+    "submitter_id": "TCGA-CN-5369"
+  },
+  "f3e35797-d314-450d-b3cf-5b000dd1691d": {
+    "case_id": "e3121dde-eee2-4975-a135-bdb89434a7e2",
+    "submitter_id": "TCGA-P3-A6T0"
+  },
+  "6ddaa57e-0b22-43e7-9c2b-6212af18b2f5": {
+    "case_id": "ef3ce0e5-d2e8-4616-8b1a-a78c591cf235",
+    "submitter_id": "TCGA-CV-6959"
+  },
+  "bd237b46-b737-4651-9e7a-612e04632a6f": {
+    "case_id": "f88ec55c-4c1e-4593-9c89-1981f220c0f8",
+    "submitter_id": "TCGA-UP-A6WW"
+  },
+  "3a786e65-0e2d-4472-8532-551994771b06": {
+    "case_id": "f9e82d62-fafc-45b0-97cf-d1a4a3c884a1",
+    "submitter_id": "TCGA-WA-A7GZ"
+  },
+  "5475ae6f-f1d4-415e-80e4-66f2ddf4231f": {
+    "case_id": "c512ba69-7b90-4334-92eb-48ab91aa05f2",
+    "submitter_id": "TCGA-IQ-A61G"
+  },
+  "46ebf756-539b-41e4-9636-e8a7ba8d9bb8": {
+    "case_id": "cb99fb14-641c-4fb3-bf1d-17efb8cd982a",
+    "submitter_id": "TCGA-BA-5149"
+  },
+  "ba98799c-6f98-4d0e-9ce1-b2a21df680c5": {
+    "case_id": "bdc0a7f5-d0f9-4008-bf4c-51e570ca1ebc",
+    "submitter_id": "TCGA-QK-A6IJ"
+  },
+  "5a56089f-5a40-481c-a344-99309cd1d4cd": {
+    "case_id": "c0edde5e-d229-4061-8820-14afc712c5b6",
+    "submitter_id": "TCGA-HD-A633"
+  },
+  "a14a2fc7-3f99-4ba8-a6e2-41a72a0f59d4": {
+    "case_id": "c1f286f6-d4a1-494a-88c8-ff8e2a3df2ce",
+    "submitter_id": "TCGA-QK-A6IH"
+  },
+  "d64c5014-7755-4439-a871-5e3648473446": {
+    "case_id": "90f44998-3c05-44b2-9501-bbd0f43c5147",
+    "submitter_id": "TCGA-CQ-6225"
+  },
+  "dfe94936-7310-488f-87bf-22e6a7b3078f": {
+    "case_id": "27c28c89-f4e7-4aec-a806-c0da7756e47f",
+    "submitter_id": "TCGA-CR-7368"
+  },
+  "0d99adbf-a53d-4f67-8894-a906faa8cd0c": {
+    "case_id": "10b3f56a-e61e-486b-8d3c-176668d5dc34",
+    "submitter_id": "TCGA-DQ-5631"
+  },
+  "35f5a366-f3c5-42e4-a88e-fd489f71b2de": {
+    "case_id": "387db1df-ebaa-41c2-b036-f46ad61e313a",
+    "submitter_id": "TCGA-P3-A5QE"
+  },
+  "6e5885ee-adc4-4771-a7ec-9719dbd59081": {
+    "case_id": "11c944fc-9a49-4c00-ab8c-da5dfd595244",
+    "submitter_id": "TCGA-MT-A67D"
+  },
+  "b944e00d-c119-4bb8-943d-2eb4ea88c410": {
+    "case_id": "1f6167d9-c99d-4873-8d6e-e62a1c964135",
+    "submitter_id": "TCGA-CV-5970"
+  },
+  "bdc3e015-b191-47d1-b419-ba19f694215e": {
+    "case_id": "26cb1330-ce48-4006-8155-f6d52d3ab9b6",
+    "submitter_id": "TCGA-CQ-A4CI"
+  },
+  "4f0f7051-4e3d-4749-b50a-c85f7dabe7c0": {
+    "case_id": "545c9f09-df14-4302-b131-519d141438d1",
+    "submitter_id": "TCGA-UF-A7JC"
+  },
+  "088f29fa-5f7b-4ae6-8a57-92bffe7d2d76": {
+    "case_id": "50ee088a-5f74-466a-b9e7-7247f0a8d3e8",
+    "submitter_id": "TCGA-MT-A67F"
+  },
+  "7ad79b6a-5f2b-4315-ae69-25439113193f": {
+    "case_id": "5ac57aee-4be1-4a29-a53f-343f5a3d2e86",
+    "submitter_id": "TCGA-CN-A6V6"
+  },
+  "6931c961-ab7c-49a7-ba4f-d1a91de1d106": {
+    "case_id": "62ca707c-0657-4b7c-863c-99f4ec475972",
+    "submitter_id": "TCGA-DQ-7594"
+  },
+  "36967820-2fb2-41f5-9fa8-b2021d09e0ad": {
+    "case_id": "7cb42865-af55-487d-b604-faace62bba51",
+    "submitter_id": "TCGA-P3-A6T7"
+  },
+  "616b2f3b-b80f-4935-b9ce-9e7fa0739f6d": {
+    "case_id": "90d3c240-5cb6-4601-a852-b5cdfbcd6483",
+    "submitter_id": "TCGA-CV-7428"
+  },
+  "0bce5c44-d739-43d9-bee3-24e8e1a8c064": {
+    "case_id": "a55fb87d-f606-48a5-82f5-09eacbacf41b",
+    "submitter_id": "TCGA-BA-5151"
+  },
+  "650cd049-8ee7-4191-be99-e8c6740cbf80": {
+    "case_id": "a6622196-897f-469e-a21d-c4a12ed39908",
+    "submitter_id": "TCGA-CR-7395"
+  },
+  "51d2bbc3-8240-458b-9feb-0d9808fa1646": {
+    "case_id": "ae90972d-5bc2-4b53-b5ff-1b8c31f39342",
+    "submitter_id": "TCGA-CQ-A4CH"
+  },
+  "0a72a23d-0e31-4060-8a99-c5da7e11c5ef": {
+    "case_id": "0d0731e2-8d82-4b6d-9258-2896a770a868",
+    "submitter_id": "TCGA-CV-5966"
+  },
+  "2a82e572-e911-4103-b01a-8a5fc8dcc8a6": {
+    "case_id": "d3f786a6-5d72-4d6e-85fd-0c6ade9f6e95",
+    "submitter_id": "TCGA-IQ-A61E"
+  },
+  "6fcfff7a-0e6b-47a6-bc96-6cc12d530d27": {
+    "case_id": "dbf4e04d-095e-4554-a48c-fe7cb711ac42",
+    "submitter_id": "TCGA-CQ-5331"
+  },
+  "7cb6720b-d3dc-4655-b942-dc6588372711": {
+    "case_id": "de206681-3e27-4d4f-8669-aefb12b5b1e3",
+    "submitter_id": "TCGA-CV-7183"
+  },
+  "bf03f2c2-98e8-4843-9449-ac21b2998b01": {
+    "case_id": "e7d1f0dd-eec0-4670-a2ba-00ffe38c6382",
+    "submitter_id": "TCGA-CV-6939"
+  },
+  "be6dc660-6d65-443e-9865-432eea2ad1aa": {
+    "case_id": "f3a626e4-2d93-4d13-a34c-de0e0c6118ac",
+    "submitter_id": "TCGA-CV-7423"
+  },
+  "2399c612-2197-4e5b-8b3a-7c9927da9ea6": {
+    "case_id": "d2e43b2d-2b28-441a-8f03-a43ae7dfc1ce",
+    "submitter_id": "TCGA-CV-7425"
+  },
+  "4280c77b-0291-4c1f-aad0-78e3e710ba6b": {
+    "case_id": "df37eed0-ea63-485d-a831-28d3061852bd",
+    "submitter_id": "TCGA-CQ-A4CA"
+  },
+  "3b4422da-eae0-42fa-99fa-de497698e76b": {
+    "case_id": "546f01d5-aed5-4fb8-91c0-0fd5e0fde935",
+    "submitter_id": "TCGA-CN-5373"
+  },
+  "37c03292-c234-4213-8b85-82dbf675248b": {
+    "case_id": "417b357e-c90e-4b63-ae7a-4b782038ffd3",
+    "submitter_id": "TCGA-CV-6003"
+  },
+  "6e51b34e-3765-4dc7-b958-4131d0802810": {
+    "case_id": "7a211ce6-3162-4f58-bf24-9b68562913d5",
+    "submitter_id": "TCGA-F7-A61S"
+  },
+  "c5cec55e-35d1-4203-9392-60aa8794534a": {
+    "case_id": "90d21b9b-dbb8-43a6-9817-67ed69fabdc0",
+    "submitter_id": "TCGA-IQ-A61H"
+  },
+  "b668d085-9a13-4d78-a973-eba35b289c64": {
+    "case_id": "b3bed685-e9db-436b-9938-2b8a0a0d5b83",
+    "submitter_id": "TCGA-CR-7376"
+  },
+  "34e3a8ec-b5c4-45e7-8370-fda9d20deaec": {
+    "case_id": "dec3c21b-3f59-472f-8573-27b0e830aa92",
+    "submitter_id": "TCGA-HD-A6I0"
+  },
+  "a162c257-2c4e-479a-bdff-1361ffc1a7fd": {
+    "case_id": "57212fda-fd32-4328-81dc-61f167970f89",
+    "submitter_id": "TCGA-CV-7099"
+  },
+  "1140cd49-2d5f-4830-a135-bb887567be41": {
+    "case_id": "f1b7b418-80d2-4ddf-94cd-f79abba0a2a4",
+    "submitter_id": "TCGA-HD-8314"
+  },
+  "bdf4c1e7-f823-4828-ac05-e8b0608a2a11": {
+    "case_id": "64a195f6-2212-4e81-bccc-e39c77a10908",
+    "submitter_id": "TCGA-C9-A47Z"
+  },
+  "7cf94274-b64d-4b56-8cd6-19029fe52031": {
+    "case_id": "6ecccbf9-bfda-4f5e-9618-3bffaebf4660",
+    "submitter_id": "TCGA-CQ-7071"
+  },
+  "d7b647d8-f2bd-46b5-aa35-8b16b9eda800": {
+    "case_id": "0de19185-3517-4e30-925b-7eb1f5079ec2",
+    "submitter_id": "TCGA-BA-A6DJ"
+  },
+  "1ef87789-2fa0-4d28-826c-802358bdf67a": {
+    "case_id": "0fb3e5ff-54f0-43c5-9322-541bb7825e7f",
+    "submitter_id": "TCGA-CN-4736"
+  },
+  "151e8d75-31ae-4cf3-ae8b-f5f105e6363a": {
+    "case_id": "10593e5b-7acb-498b-bdf7-705e3e2bc443",
+    "submitter_id": "TCGA-CV-A6JN"
+  },
+  "e9cebd54-b6b4-4158-be31-7724c56165c4": {
+    "case_id": "12da9527-cf33-46c6-90cf-65478ff15cf9",
+    "submitter_id": "TCGA-UF-A7JT"
+  },
+  "84b980fe-ea6d-4834-be53-86a5ef747ffa": {
+    "case_id": "1bc03593-5ab6-4082-b157-7ea456845e28",
+    "submitter_id": "TCGA-UF-A7JS"
+  },
+  "20dad6c3-80f7-46c9-90a8-313f8eb1b7cb": {
+    "case_id": "1c25aad5-13f5-44dc-a18f-425d7626ce55",
+    "submitter_id": "TCGA-CQ-5334"
+  },
+  "1ba64243-b3c1-4b6b-9899-64944a3da9ab": {
+    "case_id": "a40f1055-3dc4-4d01-930c-92cf314f73f8",
+    "submitter_id": "TCGA-HD-7917"
+  },
+  "3a2fdca3-c3b9-4f71-8f9c-f00970d318fd": {
+    "case_id": "e0f4d67d-5ca3-4c21-9f52-04f660827d08",
+    "submitter_id": "TCGA-CQ-7067"
+  },
+  "7ed2198a-102d-42e2-8cf0-d8dfbdf34632": {
+    "case_id": "7e0575ce-670b-4035-8a90-4d35279707b2",
+    "submitter_id": "TCGA-BA-5557"
+  },
+  "9039aef0-3d43-4b37-8508-6135a2616cb5": {
+    "case_id": "0f4bb968-6e10-4a86-a03e-37b61d084f31",
+    "submitter_id": "TCGA-CR-7393"
+  },
+  "77ba1bb5-9f5b-4db1-a911-19f07adaa0e5": {
+    "case_id": "8f044599-3fbe-4b69-b67d-49aee9168545",
+    "submitter_id": "TCGA-CV-7178"
+  },
+  "55ccd178-6f91-496a-ad16-d82e45928366": {
+    "case_id": "b3342767-62bc-407f-8a83-5be50e3bdc3e",
+    "submitter_id": "TCGA-CV-7413"
+  },
+  "cae964d9-1b18-4343-acc1-ed243e566ea1": {
+    "case_id": "de206681-3e27-4d4f-8669-aefb12b5b1e3",
+    "submitter_id": "TCGA-CV-7183"
+  },
+  "7a541f8d-3af9-4f94-9096-3c3953199f39": {
+    "case_id": "eaf674dd-9909-4879-b9a3-74253169eddd",
+    "submitter_id": "TCGA-CV-7432"
+  },
+  "4b33a2f5-280a-40d1-be86-4075ac09aaf8": {
+    "case_id": "ee3061ec-273c-4bef-a325-35e9c469bf01",
+    "submitter_id": "TCGA-CN-6019"
+  },
+  "efbbaf9c-6f7c-4a67-a741-d47133001cd3": {
+    "case_id": "f76ab158-2cf9-4df7-b6fe-727dd69a369f",
+    "submitter_id": "TCGA-CR-7377"
+  },
+  "d81be377-be69-4b84-a224-015aa562601f": {
+    "case_id": "134223bd-5c03-4854-a034-ebd2c527833e",
+    "submitter_id": "TCGA-CQ-A4C7"
+  },
+  "4e2e0508-1085-4ec8-9c56-c29127d0a3a2": {
+    "case_id": "c1f50a22-38df-41cc-a1f4-f7985504a7ac",
+    "submitter_id": "TCGA-BB-4225"
+  },
+  "72fd70e4-4c48-42a4-b77d-39a524fe517d": {
+    "case_id": "15e43ee8-3080-4895-84fb-a24ad3a68b97",
+    "submitter_id": "TCGA-F7-A50J"
+  },
+  "e67fccdf-1110-46fa-898e-6626f65508da": {
+    "case_id": "1dd23cd6-3aa8-4553-8813-04701451846e",
+    "submitter_id": "TCGA-CV-7103"
+  },
+  "d9f2f627-8527-47be-bb59-fe7033c3499d": {
+    "case_id": "6a82a217-f7a2-4697-98a6-6c6553e8fac1",
+    "submitter_id": "TCGA-CV-A6JT"
+  },
+  "cc5ead11-ada3-4db3-bb08-1a944e497c47": {
+    "case_id": "78fcc813-d0a8-44aa-b004-62810dca9d12",
+    "submitter_id": "TCGA-CV-7238"
+  },
+  "61ecc8c9-7809-49aa-9c7a-30b269e71c22": {
+    "case_id": "08a45833-16a3-4a57-a310-307ec086e558",
+    "submitter_id": "TCGA-CV-7438"
+  },
+  "b5506833-abd9-4411-b9fd-4516fbc6fafc": {
+    "case_id": "0f718e17-86c1-4221-a878-d57ae87e744f",
+    "submitter_id": "TCGA-HD-7831"
+  },
+  "de34e402-4e33-4beb-8c84-34f6b0288d9e": {
+    "case_id": "54b295d4-6315-4416-bde7-a221859f965c",
+    "submitter_id": "TCGA-BA-A4IG"
+  },
+  "657aad16-3e2f-4934-a5c8-0e5273c20469": {
+    "case_id": "601a4146-8093-4f20-9a0a-a97916c9e7f6",
+    "submitter_id": "TCGA-IQ-7632"
+  },
+  "897b51e4-4451-4912-afc3-4866a618573d": {
+    "case_id": "80d51546-c046-4af4-b3b3-b6bf5b1eab02",
+    "submitter_id": "TCGA-P3-A5QA"
+  },
+  "4bd409db-831d-4892-aa7f-e5e5bbd5bfae": {
+    "case_id": "9413432e-24fe-428a-b464-1a5bcdbf5f74",
+    "submitter_id": "TCGA-CV-A45V"
+  },
+  "bfc9aff7-93e2-4331-9722-764f599e9409": {
+    "case_id": "a1066aea-3122-4887-83d0-132ef84c06e1",
+    "submitter_id": "TCGA-CV-A6K2"
+  },
+  "9936b58b-3328-4ef9-8085-cd611b2294f2": {
+    "case_id": "cac30b32-03ef-4ecb-88d8-d5577ab6b2a6",
+    "submitter_id": "TCGA-BB-4228"
+  },
+  "f0710431-74a4-4b7e-a715-885b09db10f2": {
+    "case_id": "47d1fcaf-3c01-43ba-9a21-0870b4ea2976",
+    "submitter_id": "TCGA-CX-7082"
+  },
+  "41542898-f98a-4e0f-b4cf-e7153a39acb7": {
+    "case_id": "0ca3d25a-22e9-4e40-834b-65f402535005",
+    "submitter_id": "TCGA-CQ-6219"
+  },
+  "ce6dbffc-c526-4f4a-90de-ba402b2b63ef": {
+    "case_id": "d622bcab-5b5a-45a4-8c02-7bcfdbbb781c",
+    "submitter_id": "TCGA-CQ-7072"
+  },
+  "74ad1b3f-bc69-49bd-9b7f-b4819ba155f9": {
+    "case_id": "dea53b7f-3e7d-41a3-ae2d-58548fe0b595",
+    "submitter_id": "TCGA-CR-7379"
+  },
+  "73c3420a-f453-47f7-9d80-ad0ddc8e4000": {
+    "case_id": "fbdab01c-191c-4aef-9451-ca3afec55fa1",
+    "submitter_id": "TCGA-D6-6823"
+  },
+  "9b55f6d0-87d1-4afe-b27a-491c5e4784b1": {
+    "case_id": "ccd672df-44d4-421f-8727-0a05e513b6c8",
+    "submitter_id": "TCGA-BB-A6UO"
+  },
+  "1a487e51-fd6e-4228-80f7-d3f864cf45f2": {
+    "case_id": "d2e43b2d-2b28-441a-8f03-a43ae7dfc1ce",
+    "submitter_id": "TCGA-CV-7425"
+  },
+  "9c2a05d4-9f94-44bb-b1ee-a71f4f1c5e8f": {
+    "case_id": "eeae67ac-c9e0-468d-aad6-052501f7b982",
+    "submitter_id": "TCGA-H7-7774"
+  },
+  "91fa8c2b-ee99-42ec-a0e2-088931d05c4a": {
+    "case_id": "1dd23cd6-3aa8-4553-8813-04701451846e",
+    "submitter_id": "TCGA-CV-7103"
+  },
+  "f8b3eb55-0a76-4f8c-bf8c-f99767c352fd": {
+    "case_id": "765cc306-bdae-4caf-ad1e-35b8fe95c220",
+    "submitter_id": "TCGA-HD-A4C1"
+  },
+  "723ac041-cbef-41d9-804d-e70c007086ab": {
+    "case_id": "039788ec-1364-40c7-9e9d-13dc305674e9",
+    "submitter_id": "TCGA-CN-6998"
+  },
+  "1feab715-ee67-489f-bf47-af5079f2d875": {
+    "case_id": "0625df42-740f-4e52-8f9e-0f5b7dee251b",
+    "submitter_id": "TCGA-CV-A6JY"
+  },
+  "c9c4cad8-754c-428d-8e21-6e6806fe54fe": {
+    "case_id": "24ecbe19-a9ea-4215-a7f1-74300f9ed2a9",
+    "submitter_id": "TCGA-CV-7252"
+  },
+  "a6095079-12c7-4de0-a779-e1c639db5541": {
+    "case_id": "4075717b-2240-4842-a00a-0c4dbcb910c4",
+    "submitter_id": "TCGA-CV-6961"
+  },
+  "6ddcb8b3-c6a3-4182-9c4a-01ed10db6f96": {
+    "case_id": "90a8d2cb-1f31-45f9-8575-eed3cb9a7798",
+    "submitter_id": "TCGA-CV-7100"
+  },
+  "90e2ec57-78b3-4aa3-9613-2be94e2bf716": {
+    "case_id": "9205dc07-93f5-4b5e-924e-8e097616160f",
+    "submitter_id": "TCGA-HD-A6HZ"
+  },
+  "7a8db4d9-ddee-4f17-bf71-d33e43afaeab": {
+    "case_id": "9bf40eeb-9a87-44a2-a782-197ab954c937",
+    "submitter_id": "TCGA-KU-A6H8"
+  },
+  "e4a520c9-91a8-46ec-89a5-1707d24c125d": {
+    "case_id": "e7d49212-e9cb-4cd7-923a-bdfc82a4a150",
+    "submitter_id": "TCGA-CN-6011"
+  },
+  "749e19d2-4962-4546-b236-5232fee78446": {
+    "case_id": "dedd71b4-8537-4947-839e-90aceddd0893",
+    "submitter_id": "TCGA-CN-4733"
+  },
+  "d1633c45-ff9d-4fdb-bf27-28fedf653eb1": {
+    "case_id": "08a45833-16a3-4a57-a310-307ec086e558",
+    "submitter_id": "TCGA-CV-7438"
+  },
+  "c8190f3c-3f74-4e88-add7-e82f5def2e63": {
+    "case_id": "20ece2ca-8601-4cca-aec5-0a5c0b92594d",
+    "submitter_id": "TCGA-CQ-7065"
+  },
+  "976173d5-f519-4c08-ab2a-e05bf5923dd0": {
+    "case_id": "a8fe444f-57a5-4364-ab55-09f41ecb4591",
+    "submitter_id": "TCGA-CR-7365"
+  },
+  "7579dcb1-50fe-4ea5-b943-db0fb9f02afc": {
+    "case_id": "b4e0c62d-f2f6-4243-9e0f-ae2ad4ca4bb8",
+    "submitter_id": "TCGA-CN-5358"
+  },
+  "33450be4-919f-4142-9650-813eb72f1870": {
+    "case_id": "f3ee1127-ed53-43e8-825e-1e5516371054",
+    "submitter_id": "TCGA-CV-6955"
+  },
+  "380b9900-16c1-4456-80b4-87faf8567fae": {
+    "case_id": "5fe17dde-ef75-49a2-90f8-0647077b6ca5",
+    "submitter_id": "TCGA-CN-A49A"
+  },
+  "e18bc3e3-1cfe-4d3e-a503-60272c802bdb": {
+    "case_id": "2a192049-6435-49ab-8444-ddeb2b9ee774",
+    "submitter_id": "TCGA-CV-7091"
+  },
+  "36a551c6-a242-42fe-84d5-e1bbc40664e0": {
+    "case_id": "602f2512-00b6-44b6-9ed6-f8b010224f8c",
+    "submitter_id": "TCGA-CN-A6UY"
+  },
+  "f8eaf87f-8ab3-4d10-954e-eb4e4a4e0b82": {
+    "case_id": "6909302d-358a-46cd-8052-eedb09c83c83",
+    "submitter_id": "TCGA-CN-6994"
+  },
+  "7eb3d86e-0bd6-4f3d-b4fe-c4702b46ac5e": {
+    "case_id": "6f8b9c64-16f1-4cd0-9cd6-a3c27d311cf8",
+    "submitter_id": "TCGA-CV-A465"
+  },
+  "24bd3bd0-24c5-4db8-9e04-429c3c08015c": {
+    "case_id": "80593c77-4530-413b-bb05-adca5d43bb82",
+    "submitter_id": "TCGA-BB-7872"
+  },
+  "5d866859-e5b6-455c-b907-d24df2d2b387": {
+    "case_id": "b8307f59-713f-404c-9a82-2450d2ad7507",
+    "submitter_id": "TCGA-CN-A63V"
+  },
+  "00493cfb-cfcf-4994-b4f4-3f1ff94e21f8": {
+    "case_id": "fa9f6b24-16b4-4dda-acce-bf2e186d365d",
+    "submitter_id": "TCGA-CV-A463"
+  },
+  "4d2c5caa-ba0e-49ed-8c9f-2df4c857f4dc": {
+    "case_id": "b74519ff-b338-45e9-9307-008223726dac",
+    "submitter_id": "TCGA-CR-6477"
+  },
+  "86675e21-b06e-4496-b1d8-e30c4d1b0668": {
+    "case_id": "c3b2c38d-81a3-42fd-a41e-6f6de3934007",
+    "submitter_id": "TCGA-CV-7414"
+  },
+  "6c1d8dd9-cc41-49d3-b25c-7c49ea9deac8": {
+    "case_id": "bd62a587-6fe1-47ce-918d-055f2b38bb0e",
+    "submitter_id": "TCGA-BA-6871"
+  },
+  "ecffbb22-a57d-4250-937c-d8a73a93d97e": {
+    "case_id": "2fc48edb-a428-49c3-9599-d00eb2b448ac",
+    "submitter_id": "TCGA-CN-6024"
+  },
+  "abbfd050-61b3-4138-94d2-19a11fe55407": {
+    "case_id": "2c6d6c93-fb6d-47f7-a868-5e9a82c75d4c",
+    "submitter_id": "TCGA-CV-7406"
+  },
+  "a2b8d498-f21a-4718-8661-1cd9535ac2e5": {
+    "case_id": "0956bc67-dd55-4c54-a56a-f22f2856662a",
+    "submitter_id": "TCGA-CR-6472"
+  },
+  "459912ae-ae3b-4066-8e8a-ca2842e82f41": {
+    "case_id": "a88d6f62-88da-40c4-bc16-7fe58f038b8c",
+    "submitter_id": "TCGA-BB-A5HZ"
+  },
+  "5707cde1-035e-4661-b85d-c459e98297c2": {
+    "case_id": "d99f39f3-e85a-4073-b6ce-371ba76cea20",
+    "submitter_id": "TCGA-CV-7253"
+  },
+  "2ff763c7-5655-415f-8d88-2700c8be16c5": {
+    "case_id": "db873dbd-d0c0-4a19-80e5-963dcfaf823e",
+    "submitter_id": "TCGA-T3-A92N"
+  },
+  "09e82288-aaa9-43c7-81ec-d1f98e18a798": {
+    "case_id": "ce603d46-299a-4ffb-84ab-b3b914a561b9",
+    "submitter_id": "TCGA-H7-8502"
+  },
+  "6963bebd-6efa-457d-b2b1-949576cb32e4": {
+    "case_id": "55deab98-29c3-45a1-bc13-bce3f13ad481",
+    "submitter_id": "TCGA-UF-A7JO"
+  },
+  "08c1c957-1ef0-48c2-8131-e1e9f29f9b02": {
+    "case_id": "31e58fac-3ac3-4eeb-82d6-3f2b5cb8a60d",
+    "submitter_id": "TCGA-HD-7832"
+  },
+  "13b83e88-3035-4c10-bc05-a6bdf2f04fd0": {
+    "case_id": "3be2ace5-1c2a-49e9-8da9-ceed6119530b",
+    "submitter_id": "TCGA-CN-4725"
+  },
+  "26186ce9-f0d1-44b4-80b5-729dd6bcd23e": {
+    "case_id": "402fd96c-76d3-4ac2-9f64-77bd34be0adb",
+    "submitter_id": "TCGA-CV-6954"
+  },
+  "1f715b37-49a7-4b68-8787-10c28dc71039": {
+    "case_id": "5fce954c-11b9-41f4-9471-4b5bdc0efa7f",
+    "submitter_id": "TCGA-CR-6491"
+  },
+  "07f3248f-4c22-441e-8b7e-18a77064d984": {
+    "case_id": "6826ece7-1834-4367-b05b-fa92a271e179",
+    "submitter_id": "TCGA-CQ-A4CB"
+  },
+  "a6d8ea07-b43b-491b-8acd-09f57c4b3a3b": {
+    "case_id": "9d469689-0413-4898-aa83-c6756cbfe117",
+    "submitter_id": "TCGA-HL-7533"
+  },
+  "044de6e3-52f7-493c-b8d2-6aeca52375ea": {
+    "case_id": "1f744ada-6de1-446d-b62c-76a7fc8b40af",
+    "submitter_id": "TCGA-CN-4737"
+  },
+  "55ffd417-0e61-4fe5-9ba4-54ae15c8330a": {
+    "case_id": "a091822c-447a-49a5-8c20-e329df79599c",
+    "submitter_id": "TCGA-CQ-6229"
+  },
+  "c778256b-62cc-4642-886f-f2950526f374": {
+    "case_id": "650310ff-b75e-40d2-bb8d-80e4efa36b2a",
+    "submitter_id": "TCGA-CV-A45Q"
+  },
+  "d8251860-ff31-4639-9dcf-88b4d44d18ce": {
+    "case_id": "d7d49895-032f-4385-8b68-ae16f8675ca7",
+    "submitter_id": "TCGA-CV-7095"
+  },
+  "0398eb84-be87-4906-9e22-cb94494b54f6": {
+    "case_id": "d82e6c52-9ea4-4f60-989c-cf95d464fd6f",
+    "submitter_id": "TCGA-DQ-7592"
+  },
+  "7acd7331-19ee-4160-9bed-f23663032491": {
+    "case_id": "dff4246a-57ea-46f2-a5bc-7aa82e494137",
+    "submitter_id": "TCGA-CQ-5326"
+  },
+  "a0e5df28-f34e-4fc8-8100-ea276c5956e4": {
+    "case_id": "e4733700-ff23-43ff-bfa0-e679ce9352c9",
+    "submitter_id": "TCGA-D6-6516"
+  },
+  "98d3da9f-bc4a-4ff0-ac57-fe62cf8f6c41": {
+    "case_id": "58574e35-8a30-4207-b127-59fff7c87a43",
+    "submitter_id": "TCGA-BB-4224"
+  },
+  "2f139a03-2848-4b7e-9c81-34fb5d4bf3bf": {
+    "case_id": "b7ac2f06-012a-436e-afde-7e4d653c84d9",
+    "submitter_id": "TCGA-BA-A6DG"
+  },
+  "7862a1bf-90d3-473c-9cc6-b4e44019ad2d": {
+    "case_id": "657346f2-4280-4d80-983e-cab8004f184a",
+    "submitter_id": "TCGA-CQ-5332"
+  },
+  "7cb360b5-2a40-406b-a991-8f8a5a4e22bd": {
+    "case_id": "50239d1d-b3a4-4240-ab83-b24ba67b1299",
+    "submitter_id": "TCGA-CV-5977"
+  },
+  "73ba4949-9057-498b-80b5-8b6f70841a8e": {
+    "case_id": "3c975b68-4a6e-4c97-a8d1-b9a427d4957c",
+    "submitter_id": "TCGA-CV-5442"
+  },
+  "7c415019-de42-47b3-b2d9-31190418e857": {
+    "case_id": "53d9a130-4a3a-4491-85cd-9a44415a1632",
+    "submitter_id": "TCGA-DQ-5625"
+  },
+  "1217b52f-535e-4a57-a23c-8bc37ac86dbc": {
+    "case_id": "8f1b904e-39a7-4870-b0f4-efa1d43e50a8",
+    "submitter_id": "TCGA-P3-A6T8"
+  },
+  "953b89f7-4f4d-4624-9684-d287d490d5b4": {
+    "case_id": "96d0cefe-7949-4736-a7dc-1e4fa94765ec",
+    "submitter_id": "TCGA-CQ-6220"
+  },
+  "524b91bd-e61c-475a-9217-3ccd76688a0d": {
+    "case_id": "a63ca97d-ef31-4118-9547-a6730967290f",
+    "submitter_id": "TCGA-BA-4074"
+  },
+  "c04eb652-77ed-4acc-8303-38d623e3cd28": {
+    "case_id": "8a3fdb52-63ef-48d7-95ff-167829825eb9",
+    "submitter_id": "TCGA-DQ-7588"
+  },
+  "495475bb-30cc-40bd-8640-cc35ab2a240a": {
+    "case_id": "9e3e8014-04d4-40d8-b2df-53c770e01df2",
+    "submitter_id": "TCGA-CV-A45O"
+  },
+  "4dc4c39e-b7aa-4575-90b7-e82d0d722761": {
+    "case_id": "5a03e2b6-4c8b-479a-9036-9859af031da4",
+    "submitter_id": "TCGA-CQ-5327"
+  },
+  "810270f3-3560-4386-a7b9-bf10fa9fc0d4": {
+    "case_id": "23c4e2eb-142b-4fcc-a974-9a248aec3f37",
+    "submitter_id": "TCGA-CN-6017"
+  },
+  "36697eb3-31ab-4c81-9f93-5e812fec5ffa": {
+    "case_id": "8f044599-3fbe-4b69-b67d-49aee9168545",
+    "submitter_id": "TCGA-CV-7178"
+  },
+  "7343f7e6-bc2a-417a-b8e3-465d12ac9939": {
+    "case_id": "aa34f900-b2e4-4276-9d28-807ad11444ac",
+    "submitter_id": "TCGA-CV-7104"
+  },
+  "f58540cd-7ad0-4167-b984-3506713d5da1": {
+    "case_id": "97c3c5dc-5540-4713-805e-4d98fd8c03ad",
+    "submitter_id": "TCGA-UF-A7JA"
+  },
+  "35fd23d8-0dba-4a74-8c5a-cbebfc7e460e": {
+    "case_id": "9e178d80-fe90-4998-9dae-726c4beceef7",
+    "submitter_id": "TCGA-CR-5250"
+  },
+  "bf51cf1f-c9a9-4923-af87-b80ac8450edb": {
+    "case_id": "83aa326a-09bf-41cf-945e-6b251f11f731",
+    "submitter_id": "TCGA-D6-8569"
+  },
+  "1b15bd5b-b25e-45e4-9dc1-c4aed2dac1a5": {
+    "case_id": "38cfe5af-02e4-4271-8978-8e2566d3dca7",
+    "submitter_id": "TCGA-CV-7236"
+  },
+  "32d7d3ba-a8b4-413d-9cc7-d907daf8b407": {
+    "case_id": "3ee863da-7991-414f-82d8-2b6502d4c061",
+    "submitter_id": "TCGA-CV-5439"
+  },
+  "b4b4e9e2-b661-4968-a347-4d6086cd0cbf": {
+    "case_id": "432fbb6c-331f-4d2d-834d-f6378d88107a",
+    "submitter_id": "TCGA-CV-A6JD"
+  },
+  "1529866b-741a-49a1-b6cc-7b24693ad1e6": {
+    "case_id": "46625ebd-5bf3-4fe7-bf3f-19cc5a210555",
+    "submitter_id": "TCGA-P3-A6T5"
+  },
+  "86eb64f4-027e-4ac7-8d7c-55e8aadb1014": {
+    "case_id": "ea93555b-daa5-439a-a13a-796917365454",
+    "submitter_id": "TCGA-CV-6941"
+  },
+  "5706bf95-e372-46d4-ae27-7f02ecfb43c7": {
+    "case_id": "eaf674dd-9909-4879-b9a3-74253169eddd",
+    "submitter_id": "TCGA-CV-7432"
+  },
+  "38f3f620-6776-4d79-ba15-f562e6f30277": {
+    "case_id": "f090838e-7cc0-4ba8-b3a2-faaa99743785",
+    "submitter_id": "TCGA-H7-8501"
+  },
+  "0401cfb1-2922-40fb-bb2c-f5c6966dbe49": {
+    "case_id": "f1099653-fd32-4459-86eb-40e0412ce2fa",
+    "submitter_id": "TCGA-D6-A6EM"
+  },
+  "ec1c8dbd-035e-4e68-a22f-1e0f9563f414": {
+    "case_id": "f3a592bc-40c6-4453-9008-630b073e5e8c",
+    "submitter_id": "TCGA-CV-6937"
+  },
+  "465b74a3-2a01-425e-8c1f-45c8ee19f51c": {
+    "case_id": "c060bdab-dce7-46b9-801c-48dfab4fad92",
+    "submitter_id": "TCGA-MT-A7BN"
+  },
+  "50e29729-0b0b-44e3-ae95-4de7372c087c": {
+    "case_id": "4bfbce2b-9d0b-4e8a-950f-fd8e0ba3e05a",
+    "submitter_id": "TCGA-BA-4077"
+  },
+  "69252a54-bbd0-4e93-a936-6dcb920acfb3": {
+    "case_id": "65ba24fb-07df-47ce-91c4-677684b64cf4",
+    "submitter_id": "TCGA-CV-7435"
+  },
+  "0486cbe7-ea63-4a75-8bad-7e95993b34ce": {
+    "case_id": "ff9db03d-f81c-4079-8b05-f5a8c05b8cfe",
+    "submitter_id": "TCGA-CV-6938"
+  },
+  "d6b37c06-d3fc-4892-b651-53e7401e8924": {
+    "case_id": "2fc960bd-01b0-422d-ad33-34520fa3df0e",
+    "submitter_id": "TCGA-CN-4729"
+  },
+  "509ac1c1-9c94-4b12-a1a2-599bc2769435": {
+    "case_id": "aad9a83a-ab62-47b0-990c-527ccdb58d63",
+    "submitter_id": "TCGA-MZ-A6I9"
+  },
+  "0fc7262e-048c-4a70-b311-976db2f17c30": {
+    "case_id": "3f2e0c8a-6d5f-4763-be60-5a70994d31a1",
+    "submitter_id": "TCGA-CR-7386"
+  },
+  "3094c16a-dcee-443d-8f7f-d50af40404f9": {
+    "case_id": "4199c571-f20f-4873-afd3-5393f2f8d2db",
+    "submitter_id": "TCGA-WA-A7H4"
+  },
+  "ef3eab99-6232-4f1c-83aa-cc8dcd425c9a": {
+    "case_id": "01420c4e-6013-4d3f-87bd-a6cd9e3f8e87",
+    "submitter_id": "TCGA-BA-5152"
+  },
+  "d76c021e-8c55-43cd-84ee-9785a323c29a": {
+    "case_id": "1465b7ec-8d2b-47dd-8387-977eed44cc86",
+    "submitter_id": "TCGA-CV-5971"
+  },
+  "405ee967-a2fb-401b-82d5-f029bc0b2e68": {
+    "case_id": "2bc1522c-b8c7-4f62-9338-d4b56a7ba6c6",
+    "submitter_id": "TCGA-CV-6942"
+  },
+  "e5e2751b-3571-4e99-9f34-f7d6612fd1d0": {
+    "case_id": "2a192049-6435-49ab-8444-ddeb2b9ee774",
+    "submitter_id": "TCGA-CV-7091"
+  },
+  "3a3344f6-76e1-43b7-9f23-591642400ae3": {
+    "case_id": "2c985b30-0f8f-4c8f-a924-cc6aad7ebf0d",
+    "submitter_id": "TCGA-CV-6960"
+  },
+  "aea0d82e-1955-43f7-b3c9-4299a2f7a456": {
+    "case_id": "45c3cd39-1c5d-4e26-8afc-5bed3c230088",
+    "submitter_id": "TCGA-CR-7372"
+  },
+  "22ba6691-d4b9-4067-9acd-17cf251d89b7": {
+    "case_id": "44d99f11-ef5b-45d7-b7df-b5c5893d878f",
+    "submitter_id": "TCGA-CV-7429"
+  },
+  "8c4ffa6f-b8c1-4b56-8e2d-fca2178391d6": {
+    "case_id": "757c56d0-8a49-464f-866a-ae98816de60b",
+    "submitter_id": "TCGA-4P-AA8J"
+  },
+  "28a3b4b9-ee0e-4554-8c5d-9fe619e81564": {
+    "case_id": "839b660c-98fe-4468-a2b3-408594350250",
+    "submitter_id": "TCGA-CQ-6221"
+  },
+  "a62d59ff-b040-4986-adb6-044191fe4462": {
+    "case_id": "277b02e9-ded5-4980-845d-af53690000ac",
+    "submitter_id": "TCGA-CN-4741"
+  },
+  "5fb5f7ac-6241-4c3d-8350-b18f28c317c5": {
+    "case_id": "d296cdb5-a0f6-40cc-8ce7-73e4ccd176f3",
+    "submitter_id": "TCGA-CR-7394"
+  },
+  "b84e7ed5-b84b-4bee-b555-49bd197b9de3": {
+    "case_id": "e7d1f0dd-eec0-4670-a2ba-00ffe38c6382",
+    "submitter_id": "TCGA-CV-6939"
+  },
+  "89472f4a-ab97-477f-8da5-92bb6b153426": {
+    "case_id": "f030e410-2585-461e-ad23-9fdf026ac06c",
+    "submitter_id": "TCGA-CR-7382"
+  },
+  "340f6bf2-e251-4e6e-beb0-0d835e292df4": {
+    "case_id": "f13dfdcc-02f8-4a4c-a2fc-e6a45499bd4c",
+    "submitter_id": "TCGA-D6-A6EN"
+  },
+  "3cf8f0d0-caaf-493b-987f-3259db70dadd": {
+    "case_id": "d5e136fd-b6fc-4400-88d3-30d10cbd9801",
+    "submitter_id": "TCGA-CV-A6K0"
+  },
+  "bf7e3880-e49d-412a-99bb-0f17456bd692": {
+    "case_id": "d86fd392-fa5c-4142-a647-440e6c32d478",
+    "submitter_id": "TCGA-CQ-6224"
+  },
+  "01938448-39ff-474a-865e-b41c5207f3bb": {
+    "case_id": "eda29281-e803-4217-8603-d6a388408611",
+    "submitter_id": "TCGA-CR-6471"
+  },
+  "44d502d5-9e0b-4548-8ac3-e4a46b4bbb3f": {
+    "case_id": "32128246-1258-43d1-b1e5-30ae63822c32",
+    "submitter_id": "TCGA-CV-6950"
+  },
+  "745aa662-a927-4863-80d2-7b9f222d708d": {
+    "case_id": "0b67f9bb-e469-4b4c-9ce6-6af1c7b1aab2",
+    "submitter_id": "TCGA-F7-A61V"
+  },
+  "b3631beb-6a25-46c9-a2f0-88e35eb6bc00": {
+    "case_id": "78fcc813-d0a8-44aa-b004-62810dca9d12",
+    "submitter_id": "TCGA-CV-7238"
+  },
+  "14456850-fe81-41f4-bcbb-eff9e48d04d7": {
+    "case_id": "1ae087ac-63f0-4cf9-b698-f5c13e1f4681",
+    "submitter_id": "TCGA-BB-7861"
+  },
+  "6f76f81d-dd73-46d2-9fa0-3dc21b753b28": {
+    "case_id": "13f63218-0949-41e6-a661-c844414c45b5",
+    "submitter_id": "TCGA-CN-5364"
+  },
+  "622b94ac-8bef-4606-8dcb-5ec6eeba3dfe": {
+    "case_id": "1c509ba7-2edf-4428-bd39-109c78b3fb30",
+    "submitter_id": "TCGA-CV-A45P"
+  },
+  "8c4a7f36-f25b-449a-87e9-e413a35cbca6": {
+    "case_id": "49b94421-fe82-4f24-8ef2-820674142418",
+    "submitter_id": "TCGA-CN-6996"
+  },
+  "88d9d603-1444-4774-addd-71412a3805bf": {
+    "case_id": "63d646e2-60aa-4bd5-b2ed-6254c9c51be4",
+    "submitter_id": "TCGA-QK-A6VB"
+  },
+  "3e1c0989-8575-4d69-88b4-623292093043": {
+    "case_id": "837bf19d-1e02-4c3d-9e65-8999f0652020",
+    "submitter_id": "TCGA-CV-A45T"
+  },
+  "6d426248-0d0c-4a60-9f9d-ea8b77d9d8bb": {
+    "case_id": "a1ded1e8-eb28-49dd-8f3d-1ce8f40eed8f",
+    "submitter_id": "TCGA-CN-A642"
+  },
+  "1f9630f7-cd15-41ae-8030-ed36859710b2": {
+    "case_id": "9ffa79fa-d2d8-48e1-8fd6-4b020ecf357c",
+    "submitter_id": "TCGA-CQ-5330"
+  },
+  "c10a8f09-e01d-4321-a0d8-a909418fb8e3": {
+    "case_id": "dec3c21b-3f59-472f-8573-27b0e830aa92",
+    "submitter_id": "TCGA-HD-A6I0"
+  },
+  "6ffe0480-a95b-433c-b7fa-a760360f7ae4": {
+    "case_id": "7cabcc66-f159-42dc-bd79-953bffd93b8d",
+    "submitter_id": "TCGA-CV-A45U"
+  },
+  "a40e6f8b-3e87-4a28-9e8c-c092a8d3bae8": {
+    "case_id": "05fbd98c-28bd-41bc-ae60-16ac0c16c723",
+    "submitter_id": "TCGA-CV-7090"
+  },
+  "25a938ba-21c3-4053-b5e0-f1bbb2eca3df": {
+    "case_id": "15714e69-e075-4688-8f51-c7102fe4ca07",
+    "submitter_id": "TCGA-CV-6945"
+  },
+  "41ead8d0-85e4-41ff-9e51-8afe1e51ea6b": {
+    "case_id": "85ae3b0f-3a54-4a23-be25-9a4deebbc011",
+    "submitter_id": "TCGA-F7-A50G"
+  },
+  "44699ea6-738d-4130-9938-9932dd1c7acb": {
+    "case_id": "8f6c64c9-7799-436d-bff0-b166e56532a8",
+    "submitter_id": "TCGA-F7-A61W"
+  },
+  "c87e7072-34b2-4aab-bfb8-0fd61d926fb0": {
+    "case_id": "8e0e456e-85ee-4de5-8f0b-72393d6acde0",
+    "submitter_id": "TCGA-D6-6515"
+  },
+  "47b9ed0d-d680-458b-8541-a4852262e484": {
+    "case_id": "a40bb4bc-9ee6-4a8b-8a33-3a4ed78f69a7",
+    "submitter_id": "TCGA-CR-7397"
+  },
+  "6d07e0d3-5fcb-42a2-867f-34e6d59a1892": {
+    "case_id": "b1b3983d-37d2-4bef-bd17-708e3e600146",
+    "submitter_id": "TCGA-CV-A6JU"
+  },
+  "2df35b3b-edea-4aa2-9cb9-9c3699e8ca16": {
+    "case_id": "b815fae9-c595-4c76-acc6-6d38b9af9578",
+    "submitter_id": "TCGA-RS-A6TO"
+  },
+  "21313b5a-fa60-4113-bd3e-f1aaf595323a": {
+    "case_id": "aa10d6da-ba20-43e8-ab8f-a9b4b58738b4",
+    "submitter_id": "TCGA-CR-6484"
+  },
+  "704b983d-0e29-4b10-b00a-f0c2c87212a8": {
+    "case_id": "06580cbc-d0d8-4b97-87ef-ebc17cdae81c",
+    "submitter_id": "TCGA-MZ-A7D7"
+  },
+  "edf5ea47-414a-4e58-be4e-942e749a4733": {
+    "case_id": "4f5bc340-bdb5-418a-b3c4-96ac85e08b34",
+    "submitter_id": "TCGA-CV-6934"
+  },
+  "86eb7606-22d5-45e7-a46c-014160f1f136": {
+    "case_id": "714496c5-d221-4397-9c5a-cd2d22603e6f",
+    "submitter_id": "TCGA-CN-6013"
+  },
+  "e0ba453e-0cbf-4cf5-9cab-d889f899bb7d": {
+    "case_id": "6a0490ea-d9c6-41cf-bec3-3257e98cc6ed",
+    "submitter_id": "TCGA-CQ-A4C9"
+  },
+  "4a71dd8d-e7d7-4444-bf25-e25bbc620d8f": {
+    "case_id": "731f6967-5a01-40b7-9f88-64d980214bb2",
+    "submitter_id": "TCGA-T2-A6X2"
+  },
+  "3b799ba8-b92c-4569-ae57-08bda7449f25": {
+    "case_id": "832316ee-08ab-412b-9e4d-8a57ff84bc11",
+    "submitter_id": "TCGA-CR-7391"
+  },
+  "6a299d04-3ed3-432e-b6e5-4e4f4d3dfb6d": {
+    "case_id": "b80fdc9a-341d-4277-9664-8e8f770d9ddd",
+    "submitter_id": "TCGA-CN-4734"
+  },
+  "34b7ac84-d020-4841-98d5-fc86aa7798de": {
+    "case_id": "3ce5b304-6068-43ba-9e70-e4357d6d7a2a",
+    "submitter_id": "TCGA-CX-7219"
+  },
+  "cb33a073-f47e-407f-af93-92387244aa29": {
+    "case_id": "8b63be59-9ce6-45a0-80d9-4d20f4918cb9",
+    "submitter_id": "TCGA-CV-7407"
+  },
+  "7a135d57-ce55-46bc-99d3-d7acf7c2751a": {
+    "case_id": "42bc2336-2408-441a-83b9-aadc9700f750",
+    "submitter_id": "TCGA-D6-6825"
+  },
+  "d43cedec-541c-431d-9bb7-90fcc7a133a1": {
+    "case_id": "207c8a26-1a2d-47d9-8db8-a25a7fd8655a",
+    "submitter_id": "TCGA-BA-A6DB"
+  },
+  "093a60dc-6e80-4c41-865b-4cd98384c6d5": {
+    "case_id": "2c878227-77a1-4988-a46c-885db9e400f7",
+    "submitter_id": "TCGA-QK-A8Z7"
+  },
+  "2cafd44f-2e38-40d5-937a-d122886ef8e7": {
+    "case_id": "34aad752-d78f-440b-abd2-f9f939c82664",
+    "submitter_id": "TCGA-CN-A498"
+  },
+  "892eed19-fe56-4ae7-8785-894ae16026ea": {
+    "case_id": "3c5bc678-41e9-46b3-9686-5cd95659ab71",
+    "submitter_id": "TCGA-D6-6827"
+  },
+  "2c2078a4-b77d-4cb7-ab07-bacf57cdec28": {
+    "case_id": "513b1a26-8f1b-49a0-8957-de10930e6c98",
+    "submitter_id": "TCGA-F7-8489"
+  },
+  "9cd8121a-2c9d-4a60-9235-8f3f5702b5cc": {
+    "case_id": "5d227ea8-bd74-4e8f-9bee-9d981f03d66f",
+    "submitter_id": "TCGA-CQ-6227"
+  },
+  "cec32dbb-d343-44b8-a816-9c616d23c16a": {
+    "case_id": "600fc87b-a177-4bf9-9084-457f7e7e102c",
+    "submitter_id": "TCGA-CV-7411"
+  },
+  "70da7725-200d-4d95-b0f2-f774c5e24673": {
+    "case_id": "8c238d30-df8e-4e6b-98fc-21696269a294",
+    "submitter_id": "TCGA-CV-6956"
+  },
+  "5312ceac-498e-497a-8000-6083e2214917": {
+    "case_id": "a4e90f64-d11a-4278-a79e-d64c936e8e86",
+    "submitter_id": "TCGA-CV-6953"
+  },
+  "c013ba53-35bf-4b40-a744-21f390303dee": {
+    "case_id": "d5eedfb5-4fa3-4a1e-ad0d-ea550b22a5ba",
+    "submitter_id": "TCGA-CV-6433"
+  },
+  "0295ea9f-3c48-400e-8004-05ca911f460d": {
+    "case_id": "e1527704-8a97-445f-a5ee-357920cb28f7",
+    "submitter_id": "TCGA-CQ-A4CE"
+  },
+  "a22b70b1-3c74-43d9-9786-07d254605fb0": {
+    "case_id": "e8f0cd72-e423-45e0-ad1e-83aa7fb354e3",
+    "submitter_id": "TCGA-C9-A480"
+  },
+  "409790bc-30ef-4f2f-9025-52d0c1864a04": {
+    "case_id": "e303b8c4-6428-4134-bb9d-a95dc1d8e35e",
+    "submitter_id": "TCGA-CQ-6228"
+  },
+  "d3c1273c-e516-4180-8d21-86ce947ddf22": {
+    "case_id": "ebfb8c1b-471f-4acb-a1fe-287e02cadba7",
+    "submitter_id": "TCGA-H7-A6C4"
+  },
+  "2f940d2e-7aca-4897-8a52-2eed03d5b002": {
+    "case_id": "ef3ce0e5-d2e8-4616-8b1a-a78c591cf235",
+    "submitter_id": "TCGA-CV-6959"
+  },
+  "8549e24f-b9d7-4203-97ef-15aeb7a7fde6": {
+    "case_id": "eda7df86-a344-4790-88ac-e1391f07f66d",
+    "submitter_id": "TCGA-MT-A67A"
+  },
+  "d66293fd-36de-4518-a594-0a56d7299719": {
+    "case_id": "6a1aa50c-097c-4e04-8ddd-12d50f8a5ac2",
+    "submitter_id": "TCGA-BA-5558"
+  },
+  "4f74695e-ef5a-49c1-a813-6d65f223d7e5": {
+    "case_id": "23062172-7361-4e61-8ee6-b0a613d72a24",
+    "submitter_id": "TCGA-CV-5976"
+  },
+  "1d4ba820-5dd1-4e71-8f25-279af45fc003": {
+    "case_id": "2c7f1035-5c8c-4c49-8b9b-2f1233896530",
+    "submitter_id": "TCGA-UF-A71A"
+  },
+  "59531f37-b664-4e6a-982f-48a5ee901a41": {
+    "case_id": "3e5f451a-5882-4914-ae1a-95c898c2bcca",
+    "submitter_id": "TCGA-BA-6872"
+  },
+  "c45e4ae1-3b59-491a-b0d3-e8560e0d42a0": {
+    "case_id": "7ed006e8-461f-4664-bfff-55fa6812743c",
+    "submitter_id": "TCGA-CV-6952"
+  },
+  "34738236-8107-4968-a889-5a3628d82ebc": {
+    "case_id": "8ebe8c25-5ef9-42d4-9414-8313227b673f",
+    "submitter_id": "TCGA-CQ-7068"
+  },
+  "bb140b85-ab50-48ff-92e2-e8575b717cea": {
+    "case_id": "09f6c3ab-b799-404a-b301-22b9caf33e82",
+    "submitter_id": "TCGA-QK-AA3K"
+  },
+  "1d209e9f-bec9-4d4d-9805-837ebd62c103": {
+    "case_id": "f3ee1127-ed53-43e8-825e-1e5516371054",
+    "submitter_id": "TCGA-CV-6955"
+  },
+  "727176ff-b360-45b6-9f18-cc18cace6961": {
+    "case_id": "b39c64bb-122d-44b3-9672-d0dc8468ca93",
+    "submitter_id": "TCGA-BA-A6D8"
+  },
+  "0508b025-15b5-4012-b1b1-530d329eeec9": {
+    "case_id": "e2e64c5d-44ba-42f0-ab9d-ec16b21d2545",
+    "submitter_id": "TCGA-CR-7401"
+  },
+  "4053afaa-596a-4a22-bf80-d413794d80e1": {
+    "case_id": "18334157-aa38-4859-a786-99a920a1fbe3",
+    "submitter_id": "TCGA-CX-A4AQ"
+  },
+  "7e9a384d-04ae-4739-9ee4-1e97628b5a58": {
+    "case_id": "1c95de68-18d9-429b-b379-878838f88a72",
+    "submitter_id": "TCGA-CR-7367"
+  },
+  "24d7be4b-6e28-466b-a6ee-a514b4d680cf": {
+    "case_id": "2a749317-0156-4213-8482-b2c2d6e52e9b",
+    "submitter_id": "TCGA-CV-6933"
+  },
+  "ca7103ce-8d6d-4b6f-8982-c12914fc896e": {
+    "case_id": "8b574abc-646b-4252-8eb7-b9c737d034d9",
+    "submitter_id": "TCGA-CV-6943"
+  },
+  "b594be41-26d7-4416-b694-ea33bf89b9ed": {
+    "case_id": "865c624a-d52d-4c53-9904-40014cb8cce7",
+    "submitter_id": "TCGA-CV-A6JO"
+  },
+  "c3afcb4c-394b-4876-aa92-00500e9bf740": {
+    "case_id": "8b9e81da-ea22-4f6a-bdb1-281b0ec8a451",
+    "submitter_id": "TCGA-T2-A6WX"
+  },
+  "84d1f1cb-ff06-4cc7-9866-67d738bac419": {
+    "case_id": "9180e195-dae9-4af9-90cf-71778bc9aefc",
+    "submitter_id": "TCGA-CV-A45R"
+  },
+  "d10f39f7-70e3-442d-bac2-0d8900f03dee": {
+    "case_id": "acd98e20-d2da-4256-99a5-13e261bc88e6",
+    "submitter_id": "TCGA-CV-7409"
+  },
+  "cfde3042-a7a5-4931-88ae-d4f23dcee41c": {
+    "case_id": "9dd8b7cc-d094-474b-9573-cbff4ab233c8",
+    "submitter_id": "TCGA-BB-7871"
+  },
+  "eb358d94-4cba-4f14-ba44-a8fdaa4140a2": {
+    "case_id": "116ad004-929d-4c8d-8eee-883d132e0fe5",
+    "submitter_id": "TCGA-BA-A6DE"
+  },
+  "b6a38e2a-0044-4d7c-a223-1bf169d4e088": {
+    "case_id": "2a749317-0156-4213-8482-b2c2d6e52e9b",
+    "submitter_id": "TCGA-CV-6933"
+  },
+  "a7f46029-9c1a-49bd-88ab-61664e345f97": {
+    "case_id": "27707915-d36e-4da7-9b39-2fdd9ce0bdc5",
+    "submitter_id": "TCGA-CV-A464"
+  },
+  "71ebdd7f-ea9a-4b10-82ca-b0d2f6c0c7cb": {
+    "case_id": "360726f4-9b50-422d-b498-5acbbc3713ae",
+    "submitter_id": "TCGA-BB-8601"
+  },
+  "e4e6b6d0-e0d8-4477-bdcc-57daf4468e92": {
+    "case_id": "408c5d54-7888-4955-8386-bf8819b48a6c",
+    "submitter_id": "TCGA-CQ-5325"
+  },
+  "e6b99e42-89f2-4666-a76f-1c33b99d0f0e": {
+    "case_id": "3ef779cf-772e-445e-93c8-e1094ea8b878",
+    "submitter_id": "TCGA-DQ-7591"
+  },
+  "2f31d626-547f-4163-a934-4550c7302dc5": {
+    "case_id": "53b254b7-021f-43df-af9b-3fc01b87479e",
+    "submitter_id": "TCGA-CR-7380"
+  },
+  "7779c5b1-c3cb-4595-a0cf-8e78085091e3": {
+    "case_id": "50e25a4b-2eb2-4770-9a2d-8922a1e0ab56",
+    "submitter_id": "TCGA-CN-4731"
+  },
+  "8b710010-8a49-469f-9b0f-58c79916ae37": {
+    "case_id": "e48c1481-e35c-49f9-9d13-a5d4085cf876",
+    "submitter_id": "TCGA-CV-A6JE"
+  },
+  "e0865862-8829-494f-9a15-237519513ed5": {
+    "case_id": "bf6b931e-cb2e-4cc0-b603-e9fc71fdc509",
+    "submitter_id": "TCGA-BA-6873"
+  },
+  "a70a9ffa-3c34-44e8-a5c8-987c1d75eec0": {
+    "case_id": "96415324-6859-41eb-8d07-be4e6f7d9781",
+    "submitter_id": "TCGA-CV-7416"
+  },
+  "df5d5bb6-d9cc-43bd-b03c-9721060f1ad7": {
+    "case_id": "67eae8b3-3bd2-4e87-af78-ffe8221f318d",
+    "submitter_id": "TCGA-DQ-7593"
+  },
+  "a95ddac7-9b25-4bd5-912a-9fa6c537b10b": {
+    "case_id": "42d342d9-f8a5-4940-9b6b-5773d66055f9",
+    "submitter_id": "TCGA-D6-A6EO"
+  },
+  "74d18812-6caa-4398-8d31-e1cde3ac75d3": {
+    "case_id": "f4343626-f677-4fe5-862b-8fb4a16262bf",
+    "submitter_id": "TCGA-CV-7254"
+  },
+  "10b096a4-78d2-4f80-9792-306cf65c54be": {
+    "case_id": "70741b73-9683-42bd-87fc-6a021a70103b",
+    "submitter_id": "TCGA-BA-5556"
+  },
+  "045ffab4-4408-4550-b46c-ba0b237bb00f": {
+    "case_id": "573e3713-781f-447e-9f4d-a7faae4a4f03",
+    "submitter_id": "TCGA-IQ-A6SH"
+  },
+  "f6767fe8-f7a4-4993-a785-b0eaefc2f798": {
+    "case_id": "27392405-1365-49e6-8afe-7c18946ab06e",
+    "submitter_id": "TCGA-KU-A66T"
+  },
+  "938c8a89-f60e-45d4-9055-6ef27f73d936": {
+    "case_id": "2fbafcc5-896c-4e50-8956-a61540fc89be",
+    "submitter_id": "TCGA-CV-7235"
+  },
+  "10d2df0b-08ca-4eff-9e42-b23620a214fe": {
+    "case_id": "444e5bfc-d4e5-4b0d-b96d-88ecea8873e9",
+    "submitter_id": "TCGA-CN-4742"
+  },
+  "6ff62568-3f20-4552-9fd1-b8e4fc21c42c": {
+    "case_id": "55838e1f-07e8-49ca-89d6-46216babc6f7",
+    "submitter_id": "TCGA-CN-6018"
+  },
+  "382c3d30-4a8f-4173-8b28-38795909bd34": {
+    "case_id": "55a9e8ae-95a3-485c-8df0-78740fcd58d8",
+    "submitter_id": "TCGA-D6-A4Z9"
+  },
+  "01392dce-a8df-4803-aa61-d14956d801a4": {
+    "case_id": "5a976335-2326-46f0-abf1-29b744da1f43",
+    "submitter_id": "TCGA-CV-7102"
+  },
+  "24ae1f53-f311-4e0f-9183-b88137a388a9": {
+    "case_id": "64260b33-dac0-4442-82c8-04f0c9ea8a01",
+    "submitter_id": "TCGA-CQ-6218"
+  },
+  "51d9078e-4e0f-4f3e-979a-4f08695757b4": {
+    "case_id": "84fd72d1-f79d-493b-a341-826acd4aa942",
+    "submitter_id": "TCGA-CV-6436"
+  },
+  "6bbf7ecc-6210-4173-956a-aa241cbbff2c": {
+    "case_id": "2c6d6c93-fb6d-47f7-a868-5e9a82c75d4c",
+    "submitter_id": "TCGA-CV-7406"
+  },
+  "7ccb0411-d6a2-434e-847e-b4d65f2b1142": {
+    "case_id": "d947828f-d62f-426b-9710-3c93a7aef05b",
+    "submitter_id": "TCGA-UF-A7JD"
+  },
+  "919ad647-d821-45d7-ad7c-bc4078f6dc83": {
+    "case_id": "91728cd6-ed91-49dc-9279-faedbe211a9d",
+    "submitter_id": "TCGA-CV-6951"
+  },
+  "4bdddb3c-3639-451e-ad97-664fc48b6bf8": {
+    "case_id": "ebfb8c1b-471f-4acb-a1fe-287e02cadba7",
+    "submitter_id": "TCGA-H7-A6C4"
+  },
+  "09552102-8f10-4e2a-9710-f1585b6a7efb": {
+    "case_id": "e37c83dc-c2c4-4e5f-a57b-39ffcf9aa3cf",
+    "submitter_id": "TCGA-CN-4740"
+  },
+  "95285ee2-cc8b-4f0d-b3da-ae146c1efca2": {
+    "case_id": "e7a055d9-8d68-4e6b-bade-4b2585757210",
+    "submitter_id": "TCGA-CQ-A4CG"
+  },
+  "9b573cf3-f4a1-4ff4-8bb3-10be48301a88": {
+    "case_id": "f458d21d-1854-4baf-9eb1-79c29b663804",
+    "submitter_id": "TCGA-CR-6488"
+  },
+  "75a491de-b673-4731-bea1-149a74ec8c87": {
+    "case_id": "94a47bf8-f673-45cb-a8d3-1031317d03b3",
+    "submitter_id": "TCGA-CV-5436"
+  },
+  "6f2c8788-2e21-4dc9-b969-eb71027dff62": {
+    "case_id": "31202ace-6480-46db-8e0d-b4c64149e326",
+    "submitter_id": "TCGA-BB-7863"
+  },
+  "e46b1407-7768-4914-a937-9fad62f0207b": {
+    "case_id": "fb7672f9-5dab-4204-a137-c5fb84903892",
+    "submitter_id": "TCGA-CV-7243"
+  },
+  "4b2bbd5e-3d02-445e-904f-6d69d43816af": {
+    "case_id": "02dcc11f-4f0e-4c9e-8d96-d22d47beef5d",
+    "submitter_id": "TCGA-CQ-5329"
+  },
+  "aed9e1a3-8037-40a6-9ced-64e414467718": {
+    "case_id": "3aea4cf5-ade6-4747-b1d1-c431564f5fa6",
+    "submitter_id": "TCGA-QK-A6II"
+  },
+  "ac1b4443-36d4-4cb0-8297-6edae4520c9d": {
+    "case_id": "4f5bc340-bdb5-418a-b3c4-96ac85e08b34",
+    "submitter_id": "TCGA-CV-6934"
+  },
+  "20fccee9-7369-485d-8d0c-4959aec2cba5": {
+    "case_id": "61d0709c-d148-413b-a7b5-c0c82ed2f32f",
+    "submitter_id": "TCGA-CN-5367"
+  },
+  "39e5693d-d4b9-424d-83fa-c8a4bf0a02b4": {
+    "case_id": "67f2ac9b-b9fb-4ffd-ae60-6ff1114e9290",
+    "submitter_id": "TCGA-CR-7390"
+  },
+  "88983362-a45a-4eb1-bdd2-e7b2705d9c88": {
+    "case_id": "8980fb06-e38d-459f-a777-52048d492def",
+    "submitter_id": "TCGA-QK-A8Z9"
+  },
+  "aea89671-83a4-47b7-a924-07e23f3019e9": {
+    "case_id": "deefdd62-4d35-40c9-ad4c-0b593f35cff7",
+    "submitter_id": "TCGA-CQ-5323"
+  },
+  "209f8ebc-42f0-4695-b9f1-d9dc30d0e0b7": {
+    "case_id": "d2ca9a4d-c14c-40c0-871c-88794a02e4aa",
+    "submitter_id": "TCGA-CV-7180"
+  },
+  "03a11c55-c144-4215-a996-391eed03cc80": {
+    "case_id": "119ea204-792b-49ec-8fd4-eb88c4f91042",
+    "submitter_id": "TCGA-UF-A71E"
+  },
+  "8a0f7072-476a-41b3-aaf9-8c053cbefdae": {
+    "case_id": "1e05fdbd-c80b-41c6-9b40-8a7200c92e76",
+    "submitter_id": "TCGA-CV-5979"
+  },
+  "c5cee1b1-52af-4448-9ce3-443eee654433": {
+    "case_id": "9205dc07-93f5-4b5e-924e-8e097616160f",
+    "submitter_id": "TCGA-HD-A6HZ"
+  },
+  "ccfa22c8-d440-460e-899d-98ce642effca": {
+    "case_id": "a563109d-0990-4bdc-8bd7-6766d1eadbdc",
+    "submitter_id": "TCGA-P3-A6T2"
+  },
+  "524edfcc-daef-49b0-88a7-28832e4adf10": {
+    "case_id": "2915b26b-8c18-48e4-9715-a7e207f0a0e6",
+    "submitter_id": "TCGA-QK-A64Z"
+  },
+  "80757185-4699-4dc0-a39d-5da6b97005f7": {
+    "case_id": "ffcf851d-7fa1-4b45-911a-a3fbd74c253a",
+    "submitter_id": "TCGA-CN-6016"
+  },
+  "46c49b3e-0cf1-4c97-b6aa-205043d0d34b": {
+    "case_id": "2a7b4613-f908-4e78-98ed-857dcd7ed774",
+    "submitter_id": "TCGA-CX-7085"
+  },
+  "5df6ebd2-2049-436d-b845-86674a084db5": {
+    "case_id": "375e4b96-49da-4f65-9878-29f56fda9c2e",
+    "submitter_id": "TCGA-MT-A51X"
+  },
+  "23b668a7-cfdd-4785-ba3c-3af60184803c": {
+    "case_id": "396ccdcb-40eb-4299-8575-b26753054434",
+    "submitter_id": "TCGA-CN-6995"
+  },
+  "01d607fe-fc0b-441f-9528-8495666cd83e": {
+    "case_id": "4075717b-2240-4842-a00a-0c4dbcb910c4",
+    "submitter_id": "TCGA-CV-6961"
+  },
+  "1f40b3db-3351-4dbc-8560-5c5b6a0e0def": {
+    "case_id": "5d850e54-24bb-4ae6-9e4b-09ecc7e7cfee",
+    "submitter_id": "TCGA-CQ-A4C6"
+  },
+  "bb40fdc5-b4bc-4314-b8f0-9c98954fc5ef": {
+    "case_id": "63b50e1c-7948-464f-bff1-8e0e5daafcc5",
+    "submitter_id": "TCGA-CV-7434"
+  },
+  "bb7388dc-7ad7-4489-a21e-9058500f8243": {
+    "case_id": "8b574abc-646b-4252-8eb7-b9c737d034d9",
+    "submitter_id": "TCGA-CV-6943"
+  },
+  "df9d9752-4206-49bb-bebe-996d4a4f119f": {
+    "case_id": "f9e82d62-fafc-45b0-97cf-d1a4a3c884a1",
+    "submitter_id": "TCGA-WA-A7GZ"
+  },
+  "6911eac4-95c9-46c4-ad67-59c29bd85aa0": {
+    "case_id": "c4ad0479-8bef-4876-b423-fe83f222a60a",
+    "submitter_id": "TCGA-CV-7446"
+  },
+  "530aeb2b-2b87-4894-9853-8120649ccbf8": {
+    "case_id": "bfaa4b3f-3e38-478e-99b3-013f2cda80f5",
+    "submitter_id": "TCGA-CN-5359"
+  },
+  "cc8ebbe0-d89a-4f78-87cf-660e27df4d10": {
+    "case_id": "c4060ca5-33e0-4c83-b91c-742d75059bdc",
+    "submitter_id": "TCGA-BA-A6DD"
+  },
+  "041aeb93-f142-40c9-a878-2a10d3d1d2cf": {
+    "case_id": "96415324-6859-41eb-8d07-be4e6f7d9781",
+    "submitter_id": "TCGA-CV-7416"
+  },
+  "6a8370d5-8873-4f35-b6b5-31869f58a736": {
+    "case_id": "22933e67-5c61-4c13-9772-5adb78785b34",
+    "submitter_id": "TCGA-HD-8634"
+  },
+  "1e861ec0-54c1-41c0-ab31-990b60316cdb": {
+    "case_id": "b843df7e-db06-4d29-b00d-6a93effd9191",
+    "submitter_id": "TCGA-HD-8635"
+  },
+  "3b566d79-cc7f-4bfc-a18d-c3598f87035a": {
+    "case_id": "ff9db03d-f81c-4079-8b05-f5a8c05b8cfe",
+    "submitter_id": "TCGA-CV-6938"
+  },
+  "4eda7674-c779-437a-9a7d-63952954d0ac": {
+    "case_id": "fcf0dc48-b889-4593-a15b-aa715aae7bf5",
+    "submitter_id": "TCGA-CV-6948"
+  },
+  "27794773-b10f-4ef7-9c19-90958bfc3d2d": {
+    "case_id": "b295a542-f5b3-4b81-84ed-3704b944a8e3",
+    "submitter_id": "TCGA-UF-A719"
+  },
+  "f97ae484-c4fd-4253-896e-3e3f96471f05": {
+    "case_id": "91d44093-d8d9-442c-92ed-e659c45b4e0a",
+    "submitter_id": "TCGA-P3-A6T6"
+  },
+  "b6f1ca49-344f-4408-be54-a0c35aed9ff2": {
+    "case_id": "13e936ff-81f0-49b9-bc2e-2ea43921f450",
+    "submitter_id": "TCGA-P3-A6T3"
+  },
+  "ee3bb002-0561-4bf4-85bf-d4425036579c": {
+    "case_id": "1c801a6b-8407-46da-b6cc-245f05418b9e",
+    "submitter_id": "TCGA-CV-A468"
+  },
+  "f67853ac-b2db-4782-96f3-1d0338fac60d": {
+    "case_id": "24ecbe19-a9ea-4215-a7f1-74300f9ed2a9",
+    "submitter_id": "TCGA-CV-7252"
+  },
+  "5dbdee96-ea4e-4a0c-8ebe-55a99be125d7": {
+    "case_id": "8c238d30-df8e-4e6b-98fc-21696269a294",
+    "submitter_id": "TCGA-CV-6956"
+  },
+  "2448d8d4-198b-42b9-a822-f4fb071de2e7": {
+    "case_id": "9283709d-d019-4291-a097-611a5c05244b",
+    "submitter_id": "TCGA-CN-6020"
+  },
+  "68ac1641-5d4d-478b-bec5-a4c9391e3bb1": {
+    "case_id": "9d0f5938-6a01-4c06-8536-dff834f7f2f9",
+    "submitter_id": "TCGA-CV-7097"
+  },
+  "16115315-72cc-454c-93dd-ec6c6310a8f1": {
+    "case_id": "ad6c9d09-2c03-4786-a72d-dd2aa5f603d4",
+    "submitter_id": "TCGA-CX-7086"
+  },
+  "9adb359c-7196-4b9e-8cd7-b6b207521db4": {
+    "case_id": "d8a6383e-3320-4d2c-9017-31e8e1e8f120",
+    "submitter_id": "TCGA-IQ-7631"
+  },
+  "b78ac464-2435-4d29-b287-61383ee4aecb": {
+    "case_id": "c2bbb6f9-6f88-4a58-a15a-b887dfad34b4",
+    "submitter_id": "TCGA-CV-7427"
+  },
+  "996fc9a8-2cdd-4f23-a716-218aaa69df94": {
+    "case_id": "f35a0655-7504-4bd6-a9f3-6f3e59fd84b1",
+    "submitter_id": "TCGA-BB-A5HU"
+  },
+  "9eda745e-b182-4611-a4a6-242db8a07337": {
+    "case_id": "e08e1d99-81e1-454a-9bda-cda92c9e22b4",
+    "submitter_id": "TCGA-D6-A4ZB"
+  },
+  "3749fb86-5e84-49bd-b473-5ce7e91dea61": {
+    "case_id": "49eb77f3-f7d8-4e98-9f91-547543028877",
+    "submitter_id": "TCGA-QK-A652"
+  },
+  "9678c5cb-97be-4f76-a161-fece8b5982cd": {
+    "case_id": "8fc1f1be-d2d5-4b3a-9973-f4d964018beb",
+    "submitter_id": "TCGA-CV-5973"
+  },
+  "16680c4f-fb49-4bd0-ba7c-58f132ca77f3": {
+    "case_id": "fa2d4258-3ee4-4d53-8ef2-9700b5cf38d6",
+    "submitter_id": "TCGA-CV-7568"
+  },
+  "049fed5d-ea56-4406-8db9-0118d23c490b": {
+    "case_id": "93a265b7-6c23-4e5f-b797-c117793744bf",
+    "submitter_id": "TCGA-CV-6936"
+  },
+  "4c1a19bb-cfee-4556-9445-adfccd73c738": {
+    "case_id": "eb611a76-eecf-452c-bfbe-ab49b362f49c",
+    "submitter_id": "TCGA-BA-7269"
+  },
+  "0302ccdb-2853-4679-be48-de365da40545": {
+    "case_id": "06a802b9-0b5c-4ee4-9823-56d2e8c78422",
+    "submitter_id": "TCGA-CQ-5333"
+  },
+  "beec4ce7-c642-4d08-8f2d-ea3b4856f07f": {
+    "case_id": "2c985b30-0f8f-4c8f-a924-cc6aad7ebf0d",
+    "submitter_id": "TCGA-CV-6960"
+  },
+  "8ed43daa-0118-4481-9e7e-71c4b709b626": {
+    "case_id": "35c1f2c6-771c-4533-82df-f8e2ec7107d7",
+    "submitter_id": "TCGA-CN-4730"
+  },
+  "a7f51de2-26ec-4719-89b8-161c9d1f0790": {
+    "case_id": "43b99616-d7b4-404e-8912-4275f8d6dc55",
+    "submitter_id": "TCGA-HD-8224"
+  },
+  "3a7dfe12-5054-4679-a560-6c8bb9230614": {
+    "case_id": "4cacff9d-cc50-43a5-a227-16923ada7467",
+    "submitter_id": "TCGA-CV-A6JZ"
+  },
+  "a1bf61fc-7a12-4b94-9b39-d468a7df361d": {
+    "case_id": "63b50e1c-7948-464f-bff1-8e0e5daafcc5",
+    "submitter_id": "TCGA-CV-7434"
+  },
+  "46602657-873c-4a6b-86e3-fb0f75eee3e2": {
+    "case_id": "78e67b26-c473-449f-95e7-c4d11f066d5b",
+    "submitter_id": "TCGA-CQ-5324"
+  },
+  "568f568a-405a-4b79-a52b-a48b712cb4fd": {
+    "case_id": "f3a626e4-2d93-4d13-a34c-de0e0c6118ac",
+    "submitter_id": "TCGA-CV-7423"
+  },
+  "bd9af814-1b9e-4a00-99a3-79c3dc2086f2": {
+    "case_id": "534f85f2-b9eb-45be-87d5-c3dffd13d541",
+    "submitter_id": "TCGA-CV-7255"
+  },
+  "a29de7d1-6d29-417a-8fad-2cb57a8f7db8": {
+    "case_id": "2b2bb108-ca85-4b3e-a6a6-5ffaac487c5e",
+    "submitter_id": "TCGA-CQ-7063"
+  },
+  "6aec3b4a-e423-4fba-9286-e639d252415b": {
+    "case_id": "a98263a5-cc90-4734-b6f1-f0108bfd5cac",
+    "submitter_id": "TCGA-CR-6492"
+  },
+  "f251a0a3-2d9d-4b3e-9277-9a7bdec380cb": {
+    "case_id": "c2f1b2d5-1302-4e29-8889-37ba34e91de2",
+    "submitter_id": "TCGA-IQ-A6SG"
+  },
+  "107d898c-48d8-4e74-a67f-8b0aaea4fe4a": {
+    "case_id": "2fbafcc5-896c-4e50-8956-a61540fc89be",
+    "submitter_id": "TCGA-CV-7235"
+  },
+  "c2d0bb8c-05d3-4eb9-9782-aaf4f9e91353": {
+    "case_id": "3203d0ae-5fe9-4ff2-be0a-1d97f7684819",
+    "submitter_id": "TCGA-QK-A6IG"
+  },
+  "a06c91ef-ed4b-42d4-9edf-1df4722fba4f": {
+    "case_id": "4587ae9f-71fb-4582-82ff-fb407fee6445",
+    "submitter_id": "TCGA-P3-A5QF"
+  },
+  "28049154-f1db-4b0e-9cbc-4bdd5a745d46": {
+    "case_id": "54dab158-eb39-4334-8b5a-bf290e6b8bb1",
+    "submitter_id": "TCGA-CN-5370"
+  },
+  "a6d8287f-24e7-49bf-87e6-e49a00e3aedb": {
+    "case_id": "9d0f5938-6a01-4c06-8536-dff834f7f2f9",
+    "submitter_id": "TCGA-CV-7097"
+  },
+  "5e362910-3262-4ec6-a00b-27b9b2e4f4b9": {
+    "case_id": "b4a41682-4aca-4f1d-bacd-66f5e6ec7466",
+    "submitter_id": "TCGA-DQ-5624"
+  }
+}

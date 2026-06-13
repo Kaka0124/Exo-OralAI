@@ -1,0 +1,348 @@
+bcr_patient_barcode,anatomic_organ_subdivision,vital_status,last_contact_days_to,death_days_to,gender,age_at_initial_pathologic_diagnosis,ajcc_pathologic_tumor_stage
+TCGA-4P-AA8J,Oral Tongue,Alive,102,[Not Applicable],MALE,66,Stage IVA
+TCGA-BA-4074,Oral Tongue,Dead,[Not Available],462,MALE,69,Stage IVA
+TCGA-BA-4075,Oral Tongue,Dead,[Not Available],283,MALE,49,Stage III
+TCGA-BA-4077,Base of tongue,Dead,[Not Available],1134,FEMALE,45,Stage IVA
+TCGA-BA-5149,Floor of mouth,Alive,248,[Not Applicable],MALE,47,Stage IVA
+TCGA-BA-5151,Buccal Mucosa,Alive,190,[Not Applicable],MALE,72,Stage IVA
+TCGA-BA-5152,Alveolar Ridge,Alive,846,[Not Applicable],MALE,56,Stage IVA
+TCGA-BA-5556,Floor of mouth,Alive,179,[Not Applicable],FEMALE,58,Stage II
+TCGA-BA-5557,Oral Tongue,Alive,242,[Not Applicable],FEMALE,41,Stage III
+TCGA-BA-5558,Hard Palate,Alive,1636,[Not Applicable],MALE,65,[Not Available]
+TCGA-BA-6871,Base of tongue,Alive,63,[Not Applicable],MALE,75,[Not Available]
+TCGA-BA-6872,Floor of mouth,Dead,[Not Available],384,MALE,47,[Not Available]
+TCGA-BA-6873,Oral Tongue,Alive,113,[Not Applicable],MALE,28,Stage IVA
+TCGA-BA-7269,Oral Tongue,Alive,236,[Not Applicable],MALE,61,Stage III
+TCGA-BA-A4IG,Base of tongue,Alive,519,[Not Applicable],MALE,77,[Not Available]
+TCGA-BA-A6D8,Floor of mouth,Alive,513,[Not Applicable],MALE,59,Stage IVA
+TCGA-BA-A6DB,Oral Tongue,Alive,216,[Not Applicable],FEMALE,24,Stage I
+TCGA-BA-A6DD,Floor of mouth,Dead,[Not Available],173,MALE,44,Stage IVA
+TCGA-BA-A6DE,Oral Tongue,Alive,182,[Not Applicable],FEMALE,70,Stage II
+TCGA-BA-A6DF,Floor of mouth,Dead,[Not Available],238,FEMALE,80,Stage IVA
+TCGA-BA-A6DG,Oral Tongue,Dead,[Not Available],69,MALE,49,[Not Available]
+TCGA-BA-A6DJ,Alveolar Ridge,Alive,314,[Not Applicable],MALE,62,Stage IVA
+TCGA-BB-4224,Oral Tongue,Alive,278,[Not Applicable],MALE,52,Stage IVA
+TCGA-BB-4225,Base of tongue,Alive,140,[Not Applicable],MALE,73,[Not Available]
+TCGA-BB-4228,Base of tongue,Alive,558,[Not Applicable],MALE,50,Stage III
+TCGA-BB-7861,Base of tongue,Alive,310,[Not Applicable],MALE,56,Stage III
+TCGA-BB-7863,Oral Tongue,Alive,423,[Not Applicable],FEMALE,43,Stage III
+TCGA-BB-7871,Base of tongue,Alive,428,[Not Applicable],FEMALE,64,Stage IVA
+TCGA-BB-7872,Oral Tongue,Alive,436,[Not Applicable],MALE,63,Stage I
+TCGA-BB-8601,Floor of mouth,Alive,624,[Not Applicable],MALE,84,Stage III
+TCGA-BB-A5HU,Oral Cavity,Alive,383,[Not Applicable],MALE,47,Stage IVA
+TCGA-BB-A5HZ,Oral Cavity,Alive,350,[Not Applicable],MALE,65,Stage IVA
+TCGA-BB-A6UO,Oral Tongue,Dead,[Not Available],268,FEMALE,61,Stage IVA
+TCGA-C9-A47Z,Oral Tongue,Alive,5,[Not Applicable],FEMALE,72,Stage III
+TCGA-C9-A480,Oral Tongue,Alive,4,[Not Applicable],FEMALE,45,Stage III
+TCGA-CN-4725,Oral Tongue,Alive,310,[Not Applicable],MALE,60,Stage II
+TCGA-CN-4726,Buccal Mucosa,Dead,[Not Available],142,MALE,68,Stage IVA
+TCGA-CN-4728,Oral Cavity,Alive,325,[Not Applicable],MALE,56,Stage IVA
+TCGA-CN-4729,Oral Cavity,Alive,156,[Not Applicable],MALE,73,Stage III
+TCGA-CN-4730,Floor of mouth,Alive,343,[Not Applicable],MALE,62,Stage IVA
+TCGA-CN-4731,Buccal Mucosa,Alive,383,[Not Applicable],FEMALE,63,Stage IVA
+TCGA-CN-4733,Oral Tongue,Alive,523,[Not Applicable],MALE,61,Stage III
+TCGA-CN-4734,Buccal Mucosa,Alive,227,[Not Applicable],MALE,70,Stage II
+TCGA-CN-4736,Oral Tongue,Dead,[Not Available],395,FEMALE,70,[Not Available]
+TCGA-CN-4737,Oral Tongue,Alive,240,[Not Applicable],MALE,19,Stage IVA
+TCGA-CN-4740,Oral Cavity,Alive,811,[Not Applicable],FEMALE,79,Stage IVA
+TCGA-CN-4741,Alveolar Ridge,Alive,876,[Not Applicable],MALE,75,Stage IVA
+TCGA-CN-4742,Oral Tongue,Dead,[Not Available],397,FEMALE,48,Stage IVA
+TCGA-CN-5358,Floor of mouth,Alive,173,[Not Applicable],MALE,60,Stage II
+TCGA-CN-5359,Floor of mouth,Dead,[Not Available],377,MALE,59,Stage IVA
+TCGA-CN-5364,Floor of mouth,Dead,[Not Available],493,MALE,55,Stage IVA
+TCGA-CN-5367,Oral Tongue,Dead,[Not Available],352,FEMALE,60,Stage IVA
+TCGA-CN-5369,Hard Palate,Dead,[Not Available],1,FEMALE,90,Stage IVA
+TCGA-CN-5370,Oral Tongue,Dead,[Not Available],259,MALE,78,Stage III
+TCGA-CN-5373,Floor of mouth,Alive,413,[Not Applicable],FEMALE,55,Stage I
+TCGA-CN-6011,Alveolar Ridge,Alive,228,[Not Applicable],MALE,57,Stage IVA
+TCGA-CN-6013,Alveolar Ridge,Alive,155,[Not Applicable],MALE,56,Stage IVA
+TCGA-CN-6016,Floor of mouth,Alive,202,[Not Applicable],MALE,64,Stage IVA
+TCGA-CN-6017,Oral Tongue,Alive,160,[Not Applicable],MALE,55,Stage IVA
+TCGA-CN-6018,Oral Cavity,Alive,45,[Not Applicable],FEMALE,85,Stage IVA
+TCGA-CN-6019,Oral Tongue,Alive,135,[Not Applicable],MALE,61,Stage IVA
+TCGA-CN-6020,Oral Cavity,Alive,98,[Not Applicable],MALE,58,Stage III
+TCGA-CN-6024,Oral Tongue,Alive,224,[Not Applicable],MALE,66,Stage IVA
+TCGA-CN-6994,Oral Cavity,Alive,119,[Not Applicable],MALE,67,Stage IVA
+TCGA-CN-6995,Floor of mouth,Dead,[Not Available],112,MALE,78,Stage IVA
+TCGA-CN-6996,Oral Tongue,Alive,114,[Not Applicable],FEMALE,58,Stage IVA
+TCGA-CN-6998,Oral Tongue,Alive,46,[Not Applicable],MALE,53,Stage IVA
+TCGA-CN-A498,Base of tongue,Alive,443,[Not Applicable],FEMALE,61,Stage III
+TCGA-CN-A49A,Alveolar Ridge,Alive,391,[Not Applicable],MALE,60,Stage IVB
+TCGA-CN-A63V,Buccal Mucosa,Alive,484,[Not Applicable],MALE,59,Stage IVA
+TCGA-CN-A640,Oral Tongue,Dead,[Not Available],134,FEMALE,40,Stage IVA
+TCGA-CN-A642,Floor of mouth,Dead,[Not Available],82,MALE,57,Stage IVB
+TCGA-CN-A6UY,Base of tongue,Alive,307,[Not Applicable],MALE,57,Stage IVA
+TCGA-CN-A6V6,Base of tongue,Alive,234,[Not Applicable],MALE,59,Stage IVA
+TCGA-CQ-5323,Alveolar Ridge,Alive,1466,[Not Applicable],MALE,82,Stage I
+TCGA-CQ-5324,Floor of mouth,Alive,1207,[Not Applicable],MALE,59,Stage III
+TCGA-CQ-5325,Oral Tongue,Dead,[Not Available],654,MALE,65,Stage I
+TCGA-CQ-5326,Alveolar Ridge,Dead,[Not Available],89,MALE,67,Stage IVA
+TCGA-CQ-5327,Oral Tongue,Alive,1184,[Not Applicable],FEMALE,61,Stage IVA
+TCGA-CQ-5329,Oral Tongue,Alive,841,[Not Applicable],FEMALE,46,Stage II
+TCGA-CQ-5330,Oral Tongue,Alive,896,[Not Applicable],FEMALE,69,Stage IVA
+TCGA-CQ-5331,Hard Palate,Alive,1028,[Not Applicable],FEMALE,73,[Not Available]
+TCGA-CQ-5332,Floor of mouth,Dead,[Not Available],317,MALE,87,Stage III
+TCGA-CQ-5333,Oral Tongue,Dead,[Not Available],341,MALE,74,Stage II
+TCGA-CQ-5334,Buccal Mucosa,Dead,[Not Available],129,MALE,87,Stage IVA
+TCGA-CQ-6218,Floor of mouth,Alive,870,[Not Applicable],FEMALE,52,Stage IVA
+TCGA-CQ-6219,Oral Tongue,Dead,[Not Available],479,FEMALE,50,Stage IVA
+TCGA-CQ-6220,Buccal Mucosa,Dead,[Not Available],985,MALE,69,Stage III
+TCGA-CQ-6221,Oral Tongue,Alive,1000,[Not Applicable],MALE,79,[Not Available]
+TCGA-CQ-6222,Oral Tongue,Alive,1160,[Not Applicable],MALE,63,Stage IVA
+TCGA-CQ-6223,Alveolar Ridge,Alive,1057,[Not Applicable],MALE,69,Stage II
+TCGA-CQ-6224,Oral Tongue,Alive,985,[Not Applicable],MALE,52,Stage IVA
+TCGA-CQ-6225,Oral Tongue,Dead,[Not Available],403,MALE,65,Stage III
+TCGA-CQ-6227,Oral Cavity,Dead,[Not Available],129,MALE,77,Stage IVA
+TCGA-CQ-6228,Floor of mouth,Dead,[Not Available],456,FEMALE,71,Stage IVA
+TCGA-CQ-6229,Oral Tongue,Alive,815,[Not Applicable],MALE,61,Stage II
+TCGA-CQ-7063,Hard Palate,Alive,1461,[Not Applicable],FEMALE,59,Stage I
+TCGA-CQ-7064,Buccal Mucosa,Alive,1378,[Not Applicable],FEMALE,83,Stage III
+TCGA-CQ-7065,Oral Tongue,Alive,1007,[Not Applicable],MALE,40,Stage II
+TCGA-CQ-7067,Oral Tongue,Alive,509,[Not Applicable],FEMALE,75,Stage I
+TCGA-CQ-7068,Floor of mouth,Alive,693,[Not Applicable],FEMALE,80,Stage II
+TCGA-CQ-7069,Alveolar Ridge,Alive,901,[Not Applicable],FEMALE,77,Stage II
+TCGA-CQ-7071,Oral Cavity,Alive,877,[Not Applicable],FEMALE,76,Stage III
+TCGA-CQ-7072,Floor of mouth,Alive,1950,[Not Applicable],MALE,51,Stage II
+TCGA-CQ-A4C6,Buccal Mucosa,Alive,968,[Not Applicable],MALE,63,Stage II
+TCGA-CQ-A4C7,Floor of mouth,Dead,[Not Available],353,MALE,88,Stage III
+TCGA-CQ-A4C9,Floor of mouth,Alive,613,[Not Applicable],MALE,56,Stage III
+TCGA-CQ-A4CA,Oral Tongue,Alive,[Completed],[Not Applicable],MALE,[Not Available],Stage II
+TCGA-CQ-A4CB,Floor of mouth,Alive,545,[Not Applicable],MALE,59,Stage III
+TCGA-CQ-A4CD,Oral Cavity,Alive,548,[Not Applicable],MALE,69,Stage IVA
+TCGA-CQ-A4CE,Oral Tongue,Alive,393,[Not Applicable],FEMALE,76,Stage II
+TCGA-CQ-A4CG,Buccal Mucosa,Alive,391,[Not Applicable],FEMALE,78,Stage III
+TCGA-CQ-A4CH,Oral Tongue,Alive,303,[Not Applicable],MALE,58,Stage II
+TCGA-CQ-A4CI,Buccal Mucosa,Alive,608,[Not Applicable],MALE,73,Stage III
+TCGA-CR-5250,Base of tongue,Alive,799,[Not Applicable],MALE,71,[Not Available]
+TCGA-CR-6471,Oral Cavity,Dead,[Not Available],1202,MALE,58,Stage IVA
+TCGA-CR-6472,Base of tongue,Alive,1050,[Not Applicable],MALE,59,[Not Available]
+TCGA-CR-6477,Base of tongue,Alive,514,[Not Applicable],FEMALE,56,[Not Available]
+TCGA-CR-6484,Oral Cavity,Alive,354,[Not Applicable],FEMALE,67,Stage IVA
+TCGA-CR-6488,Oral Tongue,Alive,379,[Not Applicable],FEMALE,68,Stage II
+TCGA-CR-6491,Floor of mouth,Alive,350,[Not Applicable],MALE,60,Stage IVA
+TCGA-CR-6492,Hard Palate,Alive,479,[Not Applicable],MALE,78,Stage III
+TCGA-CR-6493,Oral Tongue,Dead,[Not Available],282,MALE,69,Stage IVA
+TCGA-CR-7365,Oral Cavity,Alive,1191,[Not Applicable],MALE,60,Stage IVA
+TCGA-CR-7367,Oral Cavity,Alive,1440,[Not Applicable],MALE,52,Stage IVA
+TCGA-CR-7368,Oral Cavity,Alive,1245,[Not Applicable],MALE,54,Stage IVA
+TCGA-CR-7369,Oral Cavity,Dead,[Not Available],1090,MALE,59,Stage IVA
+TCGA-CR-7372,Oral Tongue,Alive,759,[Not Applicable],MALE,45,Stage I
+TCGA-CR-7373,Oral Cavity,Alive,889,[Not Applicable],MALE,66,Stage IVA
+TCGA-CR-7376,Oral Cavity,Alive,972,[Not Applicable],MALE,83,Stage III
+TCGA-CR-7377,Oral Cavity,Dead,[Not Available],279,MALE,58,Stage IVA
+TCGA-CR-7379,Oral Cavity,Alive,1036,[Not Applicable],FEMALE,78,Stage IVA
+TCGA-CR-7380,Oral Cavity,Dead,[Not Available],606,MALE,58,Stage IVB
+TCGA-CR-7382,Oral Tongue,Alive,796,[Not Applicable],MALE,49,Stage IVA
+TCGA-CR-7386,Oral Cavity,Alive,1430,[Not Applicable],MALE,69,Stage IVA
+TCGA-CR-7390,Oral Tongue,Alive,907,[Not Applicable],MALE,67,Stage IVA
+TCGA-CR-7391,Oral Tongue,Alive,913,[Not Applicable],FEMALE,36,Stage I
+TCGA-CR-7392,Oral Tongue,Alive,946,[Not Applicable],FEMALE,67,Stage IVA
+TCGA-CR-7393,Oral Tongue,Alive,908,[Not Applicable],MALE,26,Stage III
+TCGA-CR-7394,Oral Tongue,Alive,898,[Not Applicable],MALE,70,Stage IVA
+TCGA-CR-7395,Oral Cavity,Alive,930,[Not Applicable],FEMALE,80,Stage II
+TCGA-CR-7397,Oral Tongue,Alive,216,[Not Applicable],MALE,44,Stage IVA
+TCGA-CR-7401,Oral Tongue,Alive,1077,[Not Applicable],MALE,64,Stage I
+TCGA-CV-5436,Floor of mouth,Dead,584,584,MALE,65,Stage IVA
+TCGA-CV-5439,Base of tongue,Dead,546,546,MALE,62,Stage IVA
+TCGA-CV-5442,Hard Palate,Alive,2327,[Not Applicable],FEMALE,76,Stage IVA
+TCGA-CV-5966,Oral Cavity,Dead,[Not Available],545,FEMALE,63,Stage IVA
+TCGA-CV-5970,Oral Tongue,Dead,406,406,MALE,59,Stage IVA
+TCGA-CV-5971,Oral Tongue,Alive,540,[Not Applicable],MALE,60,Stage IVA
+TCGA-CV-5973,Oral Tongue,Alive,1737,[Not Applicable],FEMALE,62,Stage III
+TCGA-CV-5976,Oral Tongue,Alive,1478,[Not Applicable],MALE,50,Stage IVA
+TCGA-CV-5977,Oral Tongue,Alive,1007,[Not Applicable],MALE,66,Stage IVA
+TCGA-CV-5979,Oral Tongue,Alive,1315,[Not Applicable],MALE,26,Stage IVA
+TCGA-CV-6003,Oral Tongue,Alive,1246,[Not Applicable],FEMALE,50,Stage III
+TCGA-CV-6433,Oral Tongue,Alive,405,[Not Applicable],MALE,57,Stage II
+TCGA-CV-6436,Oral Tongue,Alive,743,[Not Applicable],MALE,62,Stage IVA
+TCGA-CV-6441,Oral Tongue,Dead,[Not Available],292,MALE,60,Stage III
+TCGA-CV-6933,Oral Tongue,Dead,[Not Available],2741,MALE,53,Stage III
+TCGA-CV-6934,Oral Tongue,Dead,[Not Available],65,FEMALE,66,Stage IVA
+TCGA-CV-6936,Floor of mouth,Dead,[Not Available],166,MALE,68,Stage IVA
+TCGA-CV-6937,Oral Cavity,Dead,[Not Available],624,MALE,71,Stage II
+TCGA-CV-6938,Oral Cavity,Dead,[Not Available],144,MALE,87,Stage II
+TCGA-CV-6939,Oral Tongue,Dead,[Not Available],666,MALE,60,Stage IVA
+TCGA-CV-6940,Buccal Mucosa,Dead,[Not Available],804,FEMALE,80,Stage III
+TCGA-CV-6941,Oral Tongue,Dead,[Not Available],342,MALE,51,Stage III
+TCGA-CV-6942,Oral Cavity,Alive,3835,[Not Applicable],FEMALE,73,Stage II
+TCGA-CV-6943,Base of tongue,Dead,[Not Available],602,MALE,74,Stage III
+TCGA-CV-6945,Oral Tongue,Dead,[Not Available],366,MALE,41,Stage IVA
+TCGA-CV-6948,Floor of mouth,Dead,[Not Available],1289,FEMALE,79,Stage IVB
+TCGA-CV-6950,Base of tongue,Dead,[Not Available],459,MALE,64,Stage IVA
+TCGA-CV-6951,Oral Tongue,Dead,[Not Available],915,MALE,57,Stage IVA
+TCGA-CV-6952,Oral Tongue,Dead,[Not Available],185,FEMALE,65,Stage IVA
+TCGA-CV-6953,Floor of mouth,Dead,[Not Available],1641,FEMALE,80,Stage III
+TCGA-CV-6954,Oral Tongue,Dead,[Not Available],2002,MALE,59,Stage IVA
+TCGA-CV-6955,Oral Cavity,Dead,[Not Available],334,FEMALE,74,Stage II
+TCGA-CV-6956,Oral Tongue,Dead,[Not Available],217,MALE,67,Stage III
+TCGA-CV-6959,Oral Tongue,Dead,[Not Available],256,MALE,48,Stage III
+TCGA-CV-6960,Oral Cavity,Dead,[Not Available],862,MALE,49,Stage III
+TCGA-CV-6961,Oral Tongue,Dead,[Not Available],76,MALE,61,Stage II
+TCGA-CV-7090,Oral Cavity,Alive,3837,[Not Applicable],MALE,39,Stage II
+TCGA-CV-7091,Oral Cavity,Alive,3381,[Not Applicable],MALE,54,Stage I
+TCGA-CV-7095,Oral Cavity,Dead,[Not Available],572,FEMALE,87,Stage II
+TCGA-CV-7097,Oral Cavity,Dead,[Not Available],385,MALE,53,Stage II
+TCGA-CV-7099,Oral Cavity,Dead,[Not Available],243,FEMALE,85,Stage II
+TCGA-CV-7100,Oral Cavity,Dead,[Not Available],274,MALE,66,Stage III
+TCGA-CV-7102,Floor of mouth,Dead,[Not Available],56,FEMALE,76,Stage IVA
+TCGA-CV-7103,Oral Tongue,Dead,[Not Available],1591,MALE,49,Stage IVA
+TCGA-CV-7104,Oral Tongue,Dead,[Not Available],393,FEMALE,61,Stage IVA
+TCGA-CV-7178,Oral Cavity,Dead,[Not Available],2166,FEMALE,64,Stage IVA
+TCGA-CV-7180,Oral Tongue,Dead,[Not Available],327,MALE,34,Stage II
+TCGA-CV-7183,Oral Cavity,Alive,3497,[Not Applicable],MALE,53,Stage II
+TCGA-CV-7235,Floor of mouth,Alive,1724,[Not Applicable],MALE,67,Stage II
+TCGA-CV-7236,Oral Tongue,Dead,[Not Available],144,FEMALE,77,Stage IVA
+TCGA-CV-7238,Oral Tongue,Alive,1444,[Not Applicable],FEMALE,69,Stage II
+TCGA-CV-7243,Oral Tongue,Alive,954,[Not Applicable],MALE,50,Stage III
+TCGA-CV-7252,Oral Cavity,Dead,[Not Available],151,FEMALE,62,Stage IVA
+TCGA-CV-7253,Oral Cavity,Dead,[Not Available],361,MALE,58,Stage IVA
+TCGA-CV-7254,Oral Cavity,Dead,[Not Available],1459,MALE,55,Stage II
+TCGA-CV-7255,Oral Tongue,Dead,[Not Available],64,FEMALE,32,Stage IVA
+TCGA-CV-7263,Oral Cavity,Dead,[Not Available],560,MALE,64,Stage II
+TCGA-CV-7406,Base of tongue,Dead,[Not Available],1748,MALE,49,Stage II
+TCGA-CV-7407,Floor of mouth,Dead,[Not Available],1081,FEMALE,67,Stage II
+TCGA-CV-7409,Oral Cavity,Dead,[Not Available],543,MALE,43,Stage IVB
+TCGA-CV-7411,Oral Cavity,Dead,[Not Available],2717,FEMALE,64,Stage IVA
+TCGA-CV-7413,Oral Cavity,Dead,[Not Available],294,FEMALE,74,Stage II
+TCGA-CV-7414,Oral Cavity,Dead,[Not Available],14,MALE,78,Stage IVA
+TCGA-CV-7416,Oral Cavity,Dead,[Not Available],763,FEMALE,29,Stage IVA
+TCGA-CV-7423,Oral Cavity,Dead,[Not Available],3059,MALE,65,Stage II
+TCGA-CV-7425,Oral Cavity,Dead,[Not Available],1718,FEMALE,77,Stage III
+TCGA-CV-7427,Oral Cavity,Dead,[Not Available],4760,FEMALE,73,Stage II
+TCGA-CV-7428,Oral Cavity,Dead,[Not Available],1671,MALE,47,Stage IVA
+TCGA-CV-7429,Oral Cavity,Dead,[Not Available],107,MALE,55,Stage IVA
+TCGA-CV-7432,Oral Cavity,Dead,[Not Available],2570,MALE,79,Stage II
+TCGA-CV-7434,Oral Cavity,Dead,[Not Available],218,MALE,64,Stage IVA
+TCGA-CV-7435,Oral Cavity,Alive,4335,[Not Applicable],FEMALE,57,Stage IVA
+TCGA-CV-7438,Oral Tongue,Dead,[Not Available],194,FEMALE,87,Stage I
+TCGA-CV-7446,Oral Tongue,Dead,[Not Available],1093,MALE,66,Stage IVA
+TCGA-CV-7568,Oral Cavity,Dead,[Not Available],927,FEMALE,48,Stage IVA
+TCGA-CV-A45O,Alveolar Ridge,Alive,851,[Not Applicable],MALE,57,[Not Available]
+TCGA-CV-A45P,Oral Tongue,Alive,639,[Not Applicable],FEMALE,82,Stage I
+TCGA-CV-A45Q,Oral Cavity,Dead,[Not Available],5152,FEMALE,69,[Not Available]
+TCGA-CV-A45R,Oral Tongue,Alive,5480,[Not Applicable],MALE,46,Stage III
+TCGA-CV-A45T,Oral Tongue,Dead,[Not Available],4856,FEMALE,64,[Discrepancy]
+TCGA-CV-A45U,Oral Cavity,Dead,[Not Available],1079,MALE,59,Stage IVA
+TCGA-CV-A45V,Oral Cavity,Dead,[Not Available],32,FEMALE,87,Stage IVA
+TCGA-CV-A45X,Floor of mouth,Dead,[Not Available],198,MALE,47,Stage IVA
+TCGA-CV-A463,Floor of mouth,Dead,[Not Available],23,FEMALE,82,Stage IVA
+TCGA-CV-A464,Buccal Mucosa,Alive,1722,[Not Applicable],MALE,48,Stage III
+TCGA-CV-A465,Oral Tongue,Dead,[Not Available],215,MALE,24,Stage III
+TCGA-CV-A468,Lip,Dead,[Not Available],464,MALE,42,Stage IVA
+TCGA-CV-A6JD,Floor of mouth,Dead,[Not Available],182,FEMALE,82,[Not Available]
+TCGA-CV-A6JE,Oral Cavity,Alive,750,[Not Applicable],MALE,78,[Not Available]
+TCGA-CV-A6JN,Oral Cavity,Alive,717,[Not Applicable],MALE,53,[Not Available]
+TCGA-CV-A6JO,Oral Tongue,Dead,[Not Available],197,MALE,69,Stage IVA
+TCGA-CV-A6JT,Oral Tongue,Alive,670,[Not Applicable],MALE,65,Stage II
+TCGA-CV-A6JU,Oral Tongue,Alive,110,[Not Applicable],FEMALE,61,Stage IVB
+TCGA-CV-A6JY,Oral Cavity,Alive,646,[Not Applicable],MALE,69,Stage IVA
+TCGA-CV-A6JZ,Oral Cavity,Alive,680,[Not Applicable],MALE,68,Stage II
+TCGA-CV-A6K0,Oral Tongue,Alive,606,[Not Applicable],MALE,58,Stage I
+TCGA-CV-A6K2,Oral Cavity,Dead,[Not Available],317,MALE,79,Stage IVA
+TCGA-CX-7082,Oral Cavity,Dead,[Not Available],11,MALE,82,Stage IVA
+TCGA-CX-7085,Oral Tongue,Alive,15,[Not Applicable],FEMALE,77,Stage I
+TCGA-CX-7086,Floor of mouth,Alive,237,[Not Applicable],MALE,53,Stage III
+TCGA-CX-7219,Floor of mouth,Alive,828,[Not Applicable],MALE,47,Stage IVA
+TCGA-CX-A4AQ,Floor of mouth,Alive,1555,[Not Applicable],MALE,56,Stage IVA
+TCGA-D6-6515,Oral Tongue,Dead,[Not Available],403,FEMALE,82,Stage II
+TCGA-D6-6516,Lip,Alive,325,[Not Applicable],MALE,69,Stage I
+TCGA-D6-6823,Oral Tongue,Alive,605,[Not Applicable],MALE,50,Stage II
+TCGA-D6-6825,Oral Tongue,Alive,153,[Not Applicable],MALE,73,Stage I
+TCGA-D6-6827,Lip,Alive,128,[Not Applicable],FEMALE,55,Stage I
+TCGA-D6-8569,Oral Tongue,Alive,128,[Not Applicable],MALE,52,Stage II
+TCGA-D6-A4Z9,Oral Tongue,Alive,112,[Not Applicable],MALE,59,Stage IVA
+TCGA-D6-A4ZB,Oral Tongue,Alive,104,[Not Applicable],MALE,61,Stage III
+TCGA-D6-A6EM,Oral Tongue,Alive,232,[Not Applicable],FEMALE,65,Stage III
+TCGA-D6-A6EN,Buccal Mucosa,Alive,439,[Not Applicable],MALE,71,Stage III
+TCGA-D6-A6EO,Floor of mouth,Alive,429,[Not Applicable],MALE,44,Stage IVA
+TCGA-DQ-5624,Oral Tongue,Alive,1149,[Not Applicable],FEMALE,43,[Not Available]
+TCGA-DQ-5625,Oral Tongue,Alive,1058,[Not Applicable],FEMALE,52,[Not Available]
+TCGA-DQ-5630,Oral Tongue,Alive,477,[Not Applicable],MALE,73,[Not Available]
+TCGA-DQ-5631,Oral Tongue,Dead,548,548,MALE,52,[Not Available]
+TCGA-DQ-7588,Buccal Mucosa,Dead,[Not Available],427,MALE,66,[Not Available]
+TCGA-DQ-7591,Base of tongue,Alive,360,[Not Applicable],MALE,62,[Not Available]
+TCGA-DQ-7592,Oral Tongue,Alive,299,[Not Applicable],MALE,57,[Not Available]
+TCGA-DQ-7593,Base of tongue,Alive,369,[Not Applicable],MALE,58,[Not Available]
+TCGA-DQ-7594,Base of tongue,Alive,368,[Not Applicable],MALE,47,[Not Available]
+TCGA-F7-8489,Floor of mouth,Alive,14,[Not Applicable],MALE,48,Stage II
+TCGA-F7-A50G,Oral Tongue,Alive,15,[Not Applicable],MALE,66,Stage III
+TCGA-F7-A50J,Oral Tongue,Alive,156,[Not Applicable],FEMALE,67,Stage III
+TCGA-F7-A61S,Oral Tongue,Alive,3,[Not Applicable],MALE,62,Stage III
+TCGA-F7-A61V,Base of tongue,Alive,9,[Not Applicable],MALE,54,Stage II
+TCGA-F7-A61W,Oral Tongue,Alive,14,[Not Applicable],MALE,51,Stage IVA
+TCGA-F7-A620,Base of tongue,Alive,13,[Not Applicable],MALE,47,Stage III
+TCGA-F7-A624,Buccal Mucosa,Alive,0,[Not Applicable],MALE,73,Stage II
+TCGA-H7-7774,Oral Cavity,Alive,30,[Not Applicable],FEMALE,75,Stage IVA
+TCGA-H7-8501,Buccal Mucosa,Alive,58,[Not Applicable],MALE,54,Stage IVA
+TCGA-H7-8502,Oral Cavity,Alive,133,[Not Applicable],MALE,50,Stage IVA
+TCGA-H7-A6C4,Oral Tongue,Alive,414,[Not Applicable],FEMALE,35,Stage IVA
+TCGA-HD-7831,Oral Tongue,Alive,0,[Not Applicable],MALE,74,Stage IVA
+TCGA-HD-7832,Floor of mouth,Alive,0,[Not Applicable],MALE,52,Stage IVA
+TCGA-HD-7917,Floor of mouth,Alive,37,[Not Applicable],MALE,62,Stage II
+TCGA-HD-8224,Base of tongue,Alive,55,[Not Applicable],MALE,63,Stage IVA
+TCGA-HD-8314,Base of tongue,Alive,44,[Not Applicable],MALE,58,Stage III
+TCGA-HD-8634,Oral Tongue,Alive,24,[Not Applicable],FEMALE,51,Stage I
+TCGA-HD-8635,Oral Tongue,Alive,25,[Not Applicable],FEMALE,61,Stage III
+TCGA-HD-A4C1,Buccal Mucosa,Alive,11,[Not Applicable],FEMALE,41,Stage IVA
+TCGA-HD-A633,Oral Cavity,Alive,49,[Not Applicable],MALE,74,Stage IVA
+TCGA-HD-A6HZ,Oral Tongue,Alive,111,[Not Applicable],FEMALE,79,Stage III
+TCGA-HD-A6I0,Oral Cavity,Alive,33,[Not Applicable],MALE,56,Stage IVA
+TCGA-HL-7533,Oral Cavity,Alive,692,[Not Applicable],MALE,65,[Not Available]
+TCGA-IQ-7631,Buccal Mucosa,Alive,122,[Not Applicable],FEMALE,60,Stage II
+TCGA-IQ-7632,Alveolar Ridge,Alive,113,[Not Applicable],FEMALE,68,Stage IVA
+TCGA-IQ-A61E,Oral Tongue,Alive,588,[Not Applicable],FEMALE,55,Stage III
+TCGA-IQ-A61G,Floor of mouth,Alive,360,[Not Applicable],MALE,57,Stage IVA
+TCGA-IQ-A61H,Oral Tongue,Alive,412,[Not Applicable],MALE,76,Stage II
+TCGA-IQ-A61J,Oral Tongue,Alive,440,[Not Applicable],MALE,54,Stage IVA
+TCGA-IQ-A61K,Oral Tongue,Dead,[Not Available],161,FEMALE,70,Stage IVA
+TCGA-IQ-A61L,Oral Tongue,Alive,351,[Not Applicable],FEMALE,72,Stage II
+TCGA-IQ-A6SG,Oral Tongue,Alive,579,[Not Applicable],FEMALE,61,Stage III
+TCGA-IQ-A6SH,Oral Tongue,Alive,471,[Not Applicable],MALE,55,Stage III
+TCGA-KU-A66T,Floor of mouth,Alive,210,[Not Applicable],FEMALE,53,Stage IVA
+TCGA-KU-A6H8,Oral Tongue,Alive,168,[Not Applicable],MALE,41,Stage IVA
+TCGA-MT-A51X,Oral Tongue,Alive,34,[Not Applicable],MALE,30,Stage IVA
+TCGA-MT-A67A,Oral Tongue,Alive,392,[Not Applicable],FEMALE,85,Stage I
+TCGA-MT-A67D,Floor of mouth,Alive,56,[Not Applicable],MALE,55,Stage II
+TCGA-MT-A67F,Oral Cavity,Alive,111,[Not Applicable],FEMALE,60,Stage IVA
+TCGA-MT-A7BN,Floor of mouth,Alive,51,[Not Applicable],MALE,74,Stage IVA
+TCGA-MZ-A6I9,Base of tongue,Alive,254,[Not Applicable],MALE,68,[Not Available]
+TCGA-MZ-A7D7,Base of tongue,Alive,240,[Not Applicable],MALE,51,Stage IVA
+TCGA-P3-A5QA,Oral Tongue,Alive,1652,[Not Applicable],MALE,41,Stage I
+TCGA-P3-A5QE,Base of tongue,Alive,721,[Not Applicable],MALE,49,Stage III
+TCGA-P3-A5QF,Alveolar Ridge,Dead,[Not Available],330,MALE,49,Stage IVA
+TCGA-P3-A6T0,Floor of mouth,Alive,578,[Not Applicable],FEMALE,47,Stage IVA
+TCGA-P3-A6T2,Buccal Mucosa,Alive,1917,[Not Applicable],MALE,45,Stage IVA
+TCGA-P3-A6T3,Oral Cavity,Dead,[Not Available],577,MALE,49,Stage IVA
+TCGA-P3-A6T4,Floor of mouth,Dead,[Not Available],62,MALE,54,Stage IVA
+TCGA-P3-A6T5,Alveolar Ridge,Dead,[Not Available],882,FEMALE,79,Stage IVA
+TCGA-P3-A6T6,Alveolar Ridge,Dead,[Not Available],395,MALE,53,Stage IVA
+TCGA-P3-A6T7,Floor of mouth,Dead,[Not Available],487,MALE,55,Stage IVA
+TCGA-P3-A6T8,Floor of mouth,Alive,400,[Not Applicable],MALE,54,Stage IVA
+TCGA-QK-A64Z,Hard Palate,Alive,553,[Not Applicable],FEMALE,79,Stage IVA
+TCGA-QK-A652,Oral Tongue,Alive,259,[Not Applicable],MALE,60,Stage III
+TCGA-QK-A6IG,Buccal Mucosa,Alive,218,[Not Applicable],MALE,69,Stage III
+TCGA-QK-A6IH,Alveolar Ridge,Alive,228,[Not Applicable],FEMALE,65,Stage IVB
+TCGA-QK-A6II,Floor of mouth,Alive,225,[Not Applicable],MALE,52,Stage IVA
+TCGA-QK-A6IJ,Floor of mouth,Alive,64,[Not Applicable],MALE,71,Stage III
+TCGA-QK-A6VB,Floor of mouth,Alive,156,[Not Applicable],MALE,66,Stage IVA
+TCGA-QK-A8Z7,Floor of mouth,Alive,23,[Not Applicable],MALE,59,Stage IVA
+TCGA-QK-A8Z9,Floor of mouth,Alive,149,[Not Applicable],MALE,56,Stage IVA
+TCGA-QK-AA3K,Oral Tongue,Alive,168,[Not Applicable],MALE,60,Stage IVA
+TCGA-RS-A6TO,Oral Cavity,Alive,272,[Not Applicable],FEMALE,82,Stage IVA
+TCGA-T2-A6WX,Oral Tongue,Dead,[Not Available],209,FEMALE,73,[Not Available]
+TCGA-T2-A6WZ,Oral Tongue,Dead,[Not Available],484,MALE,53,[Not Available]
+TCGA-T2-A6X2,Alveolar Ridge,Alive,987,[Not Applicable],MALE,82,Stage III
+TCGA-T3-A92N,Floor of mouth,Alive,-2,[Not Applicable],MALE,79,Stage IVA
+TCGA-UF-A719,Floor of mouth,Alive,1337,[Not Applicable],MALE,54,Stage II
+TCGA-UF-A71A,Floor of mouth,Dead,[Not Available],86,MALE,67,Stage IVA
+TCGA-UF-A71B,Alveolar Ridge,Alive,1158,[Not Applicable],MALE,50,Stage IVA
+TCGA-UF-A71E,Floor of mouth,Alive,1090,[Not Applicable],MALE,63,Stage IVA
+TCGA-UF-A7JA,Buccal Mucosa,Alive,1894,[Not Applicable],FEMALE,66,Stage IVA
+TCGA-UF-A7JC,Floor of mouth,Alive,484,[Not Applicable],MALE,42,Stage IVA
+TCGA-UF-A7JD,Buccal Mucosa,Alive,653,[Not Applicable],MALE,71,Stage IVA
+TCGA-UF-A7JO,Floor of mouth,Dead,[Not Available],631,FEMALE,79,Stage IVA
+TCGA-UF-A7JS,Oral Tongue,Alive,413,[Not Applicable],MALE,59,Stage IVA
+TCGA-UF-A7JT,Floor of mouth,Dead,[Not Available],993,FEMALE,72,Stage IVA
+TCGA-UP-A6WW,Oral Tongue,Alive,457,[Not Applicable],MALE,58,[Not Available]
+TCGA-WA-A7GZ,Floor of mouth,Alive,335,[Not Applicable],MALE,58,[Not Available]
+TCGA-WA-A7H4,Oral Tongue,Alive,153,[Not Applicable],MALE,69,Stage II

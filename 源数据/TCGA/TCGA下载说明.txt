@@ -1,0 +1,40 @@
+================================================================
+  TCGA-HNSC 数据下载说明
+===============================================================
+
+数据来源: NCI Genomic Data Commons (GDC) Data Portal
+网址: https://portal.gdc.cancer.gov/
+
+用途: 用于预后建模（Cox回归），口腔亚群310个肿瘤样本
+
+下载步骤:
+  1. 打开 https://portal.gdc.cancer.gov/
+  2. 点击 "Repository"
+  3. 左侧筛选:
+     - Primary Site: "Oral Cavity" (口腔)
+     - Program: "TCGA"
+     - Project: "TCGA-HNSC"
+     - Data Category: "Transcriptome Profiling"
+     - Data Type: "Gene Expression Quantification"
+     - Workflow Type: "HTSeq - Counts"
+  4. 点击 "Add All Files to Cart"
+  5. 点击右上角购物车 → "Download" → "Manifest"
+  6. 使用 GDC Data Transfer Tool 下载
+
+  或者直接在浏览器下载 Manifest + Cart，然后用 GDC 客户端:
+     gdc-client download -m gdc_manifest.txt
+
+  将下载的 .tsv 文件放在本文件夹中。
+
+  临床数据单独下载:
+    在 Repository 中筛选:
+    - Data Category: "Clinical"
+    - Data Format: "BCR XML" 或 "BCR Biotab"
+    下载后解压到本文件夹的 clinical/ 子目录。
+
+备注:
+  - 共有 310 个口腔亚群肿瘤样本 + 32 个癌旁正常样本
+  - 需要原始 HTSeq-Counts 格式（非 FPKM）
+  - 若无法下载，可使用 UCSC Xena 浏览器:
+    https://xenabrowser.net/datapages/?cohort=TCGA%20Head%20and%20Neck%20Cancer%20(HNSC)
+    下载 "gene expression RNAseq - HTSeq - Counts" 和临床表型数据
