@@ -1,0 +1,31 @@
+{
+  "top20": [
+    "BTC",
+    "HSP90AA1",
+    "CDK4",
+    "CLDN7",
+    "MYC",
+    "DKK1",
+    "CD44",
+    "COL3A1",
+    "TNC",
+    "TIMP1",
+    "THBS2",
+    "FN1",
+    "TGFB1",
+    "ITGAV",
+    "SPP1",
+    "SPARC",
+    "ITGA5",
+    "ITGB1",
+    "LAMC2",
+    "LUM"
+  ],
+  "top5": [
+    "BTC",
+    "HSP90AA1",
+    "CDK4",
+    "CLDN7",
+    "MYC"
+  ]
+}

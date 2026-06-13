@@ -12,13 +12,7 @@ code/data/*.pkl
 源数据/GEO/*.csv
 源数据/GEO/*.soft.gz
 
-# Results (generated)
-code/results/*.pkl
-code/results/*.csv
-code/results/*.json
-
-# Figures
-figures/
+# Results — included for reproducibility
 
 # OS
 .DS_Store

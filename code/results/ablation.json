@@ -1,0 +1,7 @@
+{
+  "full_model_auc": 0.9942,
+  "without_dci_auc": 0.9944,
+  "dci_contribution": -0.0002,
+  "without_exosome_auc": 0.992,
+  "exosome_contribution": 0.0022
+}

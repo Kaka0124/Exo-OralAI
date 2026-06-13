@@ -1,0 +1,25 @@
+{
+  "genes": [
+    "CDK4",
+    "MYC",
+    "DKK1",
+    "CD44",
+    "COL3A1",
+    "TNC",
+    "TIMP1",
+    "THBS2",
+    "FN1",
+    "ITGAV",
+    "LAMC2",
+    "LUM",
+    "MAPK3",
+    "MMP2",
+    "SERPINE1",
+    "BMP2",
+    "IL6",
+    "CXCL8"
+  ],
+  "auc": 0.9988095238095238,
+  "c_index": 0.647221948958322,
+  "panel_size": 18
+}
